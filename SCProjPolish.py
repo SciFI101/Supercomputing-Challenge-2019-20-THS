@@ -24,7 +24,7 @@ def getPatientInputInitial():
 	elif AilmentQuery.lower() == 'cardiomegaly':
 		getPatientInputCardiomegaly()
 	elif AilmentQuery.lower() == 'idk' or AilmentQuery.lower() == "i don't know":
-		getPatientInputIDK() #Define this shit now!
+		getPatientInputIDK() #;Define this shit now!
 	else:
 		print('Input not recognized please retype below.')
 		getPatientInputInitial()

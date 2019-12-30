@@ -1,0 +1,8550 @@
+[
+  {
+    "Source": "depression mental",
+    "Target": "feeling suicidal"
+  },
+  {
+    "Source": "depression mental",
+    "Target": "suicidal"
+  },
+  {
+    "Source": "depression mental",
+    "Target": "hallucinations auditory"
+  },
+  {
+    "Source": "depression mental",
+    "Target": "feeling hopeless"
+  },
+  {
+    "Source": "depression mental",
+    "Target": "weepiness"
+  },
+  {
+    "Source": "depression mental",
+    "Target": "sleeplessness"
+  },
+  {
+    "Source": "depression mental",
+    "Target": "motor retardation"
+  },
+  {
+    "Source": "depression mental",
+    "Target": "irritable mood"
+  },
+  {
+    "Source": "depression mental",
+    "Target": "blackout"
+  },
+  {
+    "Source": "depression mental",
+    "Target": "mood depressed"
+  },
+  {
+    "Source": "depression mental",
+    "Target": "hallucinations visual"
+  },
+  {
+    "Source": "depression mental",
+    "Target": "worry"
+  },
+  {
+    "Source": "depression mental",
+    "Target": "agitation"
+  },
+  {
+    "Source": "depression mental",
+    "Target": "tremor"
+  },
+  {
+    "Source": "depression mental",
+    "Target": "intoxication"
+  },
+  {
+    "Source": "depression mental",
+    "Target": "verbal auditory hallucinations"
+  },
+  {
+    "Source": "depression mental",
+    "Target": "energy increased"
+  },
+  {
+    "Source": "depression mental",
+    "Target": "difficulty"
+  },
+  {
+    "Source": "depression mental",
+    "Target": "nightmare"
+  },
+  {
+    "Source": "depression mental",
+    "Target": "unable to concentrate"
+  },
+  {
+    "Source": "depression mental",
+    "Target": "homelessness"
+  },
+  {
+    "Source": "neoplasm metastasis",
+    "Target": "thicken"
+  },
+  {
+    "Source": "neoplasm metastasis",
+    "Target": "tumor cell invasion"
+  },
+  {
+    "Source": "neoplasm metastasis",
+    "Target": "metastatic lesion"
+  },
+  {
+    "Source": "neoplasm metastasis",
+    "Target": "pain neck"
+  },
+  {
+    "Source": "neoplasm metastasis",
+    "Target": "lung nodule"
+  },
+  {
+    "Source": "neoplasm metastasis",
+    "Target": "pain"
+  },
+  {
+    "Source": "neoplasm metastasis",
+    "Target": "pain abdominal"
+  },
+  {
+    "Source": "neoplasm metastasis",
+    "Target": "food intolerance"
+  },
+  {
+    "Source": "neoplasm metastasis",
+    "Target": "mass of body structure"
+  },
+  {
+    "Source": "neoplasm metastasis",
+    "Target": "atypia"
+  },
+  {
+    "Source": "hypothyroidism",
+    "Target": "shortness of breath"
+  },
+  {
+    "Source": "hypothyroidism",
+    "Target": "prostatism"
+  },
+  {
+    "Source": "hypothyroidism",
+    "Target": "drowsiness"
+  },
+  {
+    "Source": "hypothyroidism",
+    "Target": "sleepy"
+  },
+  {
+    "Source": "hypothyroidism",
+    "Target": "hyponatremia"
+  },
+  {
+    "Source": "hypothyroidism",
+    "Target": "fall"
+  },
+  {
+    "Source": "hypothyroidism",
+    "Target": "unsteady gait"
+  },
+  {
+    "Source": "hypothyroidism",
+    "Target": "polyuria"
+  },
+  {
+    "Source": "hypothyroidism",
+    "Target": "hypotension"
+  },
+  {
+    "Source": "hypothyroidism",
+    "Target": "difficulty"
+  },
+  {
+    "Source": "hypothyroidism",
+    "Target": "syncope"
+  },
+  {
+    "Source": "hypothyroidism",
+    "Target": "nightmare"
+  },
+  {
+    "Source": "hypothyroidism",
+    "Target": "speech slurred"
+  },
+  {
+    "Source": "hypothyroidism",
+    "Target": "weight gain"
+  },
+  {
+    "Source": "hypothyroidism",
+    "Target": "asthenia"
+  },
+  {
+    "Source": "hypothyroidism",
+    "Target": "fatigue"
+  },
+  {
+    "Source": "hypothyroidism",
+    "Target": "tired"
+  },
+  {
+    "Source": "hypothyroidism",
+    "Target": "agitation"
+  },
+  {
+    "Source": "hypothyroidism",
+    "Target": "mental status changes"
+  },
+  {
+    "Source": "hypothyroidism",
+    "Target": "motor retardation"
+  },
+  {
+    "Source": "hypothyroidism",
+    "Target": "vomiting"
+  },
+  {
+    "Source": "hypothyroidism",
+    "Target": "numbness"
+  },
+  {
+    "Source": "hypothyroidism",
+    "Target": "mass of body structure"
+  },
+  {
+    "Source": "malignant neoplasm of prostate",
+    "Target": "hematuria"
+  },
+  {
+    "Source": "malignant neoplasm of prostate",
+    "Target": "dysesthesia"
+  },
+  {
+    "Source": "malignant neoplasm of prostate",
+    "Target": "asthenia"
+  },
+  {
+    "Source": "malignant neoplasm of prostate",
+    "Target": "polymyalgia"
+  },
+  {
+    "Source": "malignant neoplasm of prostate",
+    "Target": "passed stones"
+  },
+  {
+    "Source": "malignant neoplasm of prostate",
+    "Target": "pleuritic pain"
+  },
+  {
+    "Source": "malignant neoplasm of prostate",
+    "Target": "guaiac positive"
+  },
+  {
+    "Source": "malignant neoplasm of prostate",
+    "Target": "rale"
+  },
+  {
+    "Source": "malignant neoplasm of prostate",
+    "Target": "breath sounds decreased"
+  },
+  {
+    "Source": "malignant neoplasm of prostate",
+    "Target": "urge incontinence"
+  },
+  {
+    "Source": "malignant neoplasm of prostate",
+    "Target": "dysuria"
+  },
+  {
+    "Source": "malignant neoplasm of prostate",
+    "Target": "diarrhea"
+  },
+  {
+    "Source": "malignant neoplasm of prostate",
+    "Target": "vertigo"
+  },
+  {
+    "Source": "malignant neoplasm of prostate",
+    "Target": "qt interval prolonged"
+  },
+  {
+    "Source": "malignant neoplasm of prostate",
+    "Target": "ataxia"
+  },
+  {
+    "Source": "malignant neoplasm of prostate",
+    "Target": "paresis"
+  },
+  {
+    "Source": "malignant neoplasm of prostate",
+    "Target": "hemianopsia homonymous"
+  },
+  {
+    "Source": "malignant neoplasm of prostate",
+    "Target": "tumor cell invasion"
+  },
+  {
+    "Source": "malignant neoplasm of prostate",
+    "Target": "hemodynamically stable"
+  },
+  {
+    "Source": "malignant neoplasm of prostate",
+    "Target": "mass of body structure"
+  },
+  {
+    "Source": "malignant neoplasm of prostate",
+    "Target": "rhonchus"
+  },
+  {
+    "Source": "malignant neoplasm of prostate",
+    "Target": "orthostasis"
+  },
+  {
+    "Source": "malignant neoplasm of prostate",
+    "Target": "decreased body weight"
+  },
+  {
+    "Source": "anemia",
+    "Target": "chill"
+  },
+  {
+    "Source": "anemia",
+    "Target": "guaiac positive"
+  },
+  {
+    "Source": "anemia",
+    "Target": "monoclonal"
+  },
+  {
+    "Source": "anemia",
+    "Target": "ecchymosis"
+  },
+  {
+    "Source": "anemia",
+    "Target": "tumor cell invasion"
+  },
+  {
+    "Source": "anemia",
+    "Target": "haemorrhage"
+  },
+  {
+    "Source": "anemia",
+    "Target": "pallor"
+  },
+  {
+    "Source": "anemia",
+    "Target": "asthenia"
+  },
+  {
+    "Source": "anemia",
+    "Target": "fatigue"
+  },
+  {
+    "Source": "anemia",
+    "Target": "heme positive"
+  },
+  {
+    "Source": "anemia",
+    "Target": "pain back"
+  },
+  {
+    "Source": "anemia",
+    "Target": "orthostasis"
+  },
+  {
+    "Source": "anemia",
+    "Target": "hyponatremia"
+  },
+  {
+    "Source": "anemia",
+    "Target": "dizziness"
+  },
+  {
+    "Source": "anemia",
+    "Target": "shortness of breath"
+  },
+  {
+    "Source": "anemia",
+    "Target": "pain"
+  },
+  {
+    "Source": "anemia",
+    "Target": "rhonchus"
+  },
+  {
+    "Source": "anemia",
+    "Target": "arthralgia"
+  },
+  {
+    "Source": "anemia",
+    "Target": "swelling"
+  },
+  {
+    "Source": "anemia",
+    "Target": "transaminitis"
+  },
+  {
+    "Source": "cholelithiasis",
+    "Target": "vomiting"
+  },
+  {
+    "Source": "cholelithiasis",
+    "Target": "nausea"
+  },
+  {
+    "Source": "cholelithiasis",
+    "Target": "pain abdominal"
+  },
+  {
+    "Source": "cholelithiasis",
+    "Target": "pain"
+  },
+  {
+    "Source": "cholelithiasis",
+    "Target": "cushingoid facies"
+  },
+  {
+    "Source": "cholelithiasis",
+    "Target": "cushingoid�habitus"
+  },
+  {
+    "Source": "cholelithiasis",
+    "Target": "ascites"
+  },
+  {
+    "Source": "cholelithiasis",
+    "Target": "thicken"
+  },
+  {
+    "Source": "cholelithiasis",
+    "Target": "sore to touch"
+  },
+  {
+    "Source": "cholelithiasis",
+    "Target": "diarrhea"
+  },
+  {
+    "Source": "cholelithiasis",
+    "Target": "apyrexial"
+  },
+  {
+    "Source": "cholelithiasis",
+    "Target": "palpitation"
+  },
+  {
+    "Source": "cirrhosis",
+    "Target": "ascites"
+  },
+  {
+    "Source": "cirrhosis",
+    "Target": "fall"
+  },
+  {
+    "Source": "cirrhosis",
+    "Target": "splenomegaly"
+  },
+  {
+    "Source": "cirrhosis",
+    "Target": "pruritus"
+  },
+  {
+    "Source": "cirrhosis",
+    "Target": "pain abdominal"
+  },
+  {
+    "Source": "cirrhosis",
+    "Target": "tumor cell invasion"
+  },
+  {
+    "Source": "cirrhosis",
+    "Target": "distended abdomen"
+  },
+  {
+    "Source": "cirrhosis",
+    "Target": "lesion"
+  },
+  {
+    "Source": "cirrhosis",
+    "Target": "hemodynamically stable"
+  },
+  {
+    "Source": "cirrhosis",
+    "Target": "guaiac positive"
+  },
+  {
+    "Source": "cirrhosis",
+    "Target": "sore to touch"
+  },
+  {
+    "Source": "cirrhosis",
+    "Target": "bleeding of vagina"
+  },
+  {
+    "Source": "pneumothorax",
+    "Target": "dyspnea"
+  },
+  {
+    "Source": "pneumothorax",
+    "Target": "cardiovascular finding"
+  },
+  {
+    "Source": "pneumothorax",
+    "Target": "cardiovascular event"
+  },
+  {
+    "Source": "pneumothorax",
+    "Target": "haemoptysis"
+  },
+  {
+    "Source": "pneumothorax",
+    "Target": "cough"
+  },
+  {
+    "Source": "pneumothorax",
+    "Target": "hypercapnia"
+  },
+  {
+    "Source": "pneumothorax",
+    "Target": "soft tissue swelling"
+  },
+  {
+    "Source": "pneumothorax",
+    "Target": "prostatism"
+  },
+  {
+    "Source": "pneumothorax",
+    "Target": "agitation"
+  },
+  {
+    "Source": "migraine disorders",
+    "Target": "ambidexterity"
+  },
+  {
+    "Source": "migraine disorders",
+    "Target": "vomiting"
+  },
+  {
+    "Source": "migraine disorders",
+    "Target": "dizziness"
+  },
+  {
+    "Source": "migraine disorders",
+    "Target": "numbness"
+  },
+  {
+    "Source": "migraine disorders",
+    "Target": "nausea"
+  },
+  {
+    "Source": "migraine disorders",
+    "Target": "fever"
+  },
+  {
+    "Source": "migraine disorders",
+    "Target": "splenomegaly"
+  },
+  {
+    "Source": "pancreatitis",
+    "Target": "vomiting"
+  },
+  {
+    "Source": "pancreatitis",
+    "Target": "pain abdominal"
+  },
+  {
+    "Source": "pancreatitis",
+    "Target": "nausea"
+  },
+  {
+    "Source": "pancreatitis",
+    "Target": "pain"
+  },
+  {
+    "Source": "pancreatitis",
+    "Target": "diarrhea"
+  },
+  {
+    "Source": "pancreatitis",
+    "Target": "stool color yellow"
+  },
+  {
+    "Source": "pancreatitis",
+    "Target": "rigor - temperature-associated observation"
+  },
+  {
+    "Source": "pancreatitis",
+    "Target": "apyrexial"
+  },
+  {
+    "Source": "pancreatitis",
+    "Target": "sore to touch"
+  },
+  {
+    "Source": "HIV",
+    "Target": "fever"
+  },
+  {
+    "Source": "HIV",
+    "Target": "night sweat"
+  },
+  {
+    "Source": "HIV",
+    "Target": "spontaneous rupture of membranes"
+  },
+  {
+    "Source": "HIV",
+    "Target": "cough"
+  },
+  {
+    "Source": "HIV",
+    "Target": ""
+  },
+  {
+    "Source": "HIV",
+    "Target": "decreased body weight"
+  },
+  {
+    "Source": "HIV",
+    "Target": "chill"
+  },
+  {
+    "Source": "HIV",
+    "Target": "diarrhea"
+  },
+  {
+    "Source": "HIV",
+    "Target": "pleuritic pain"
+  },
+  {
+    "Source": "HIV",
+    "Target": "patient non compliance"
+  },
+  {
+    "Source": "HIV",
+    "Target": "tachypnea"
+  },
+  {
+    "Source": "HIV",
+    "Target": "productive cough"
+  },
+  {
+    "Source": "HIV",
+    "Target": "muscle hypotonia"
+  },
+  {
+    "Source": "HIV",
+    "Target": "hypotonic"
+  },
+  {
+    "Source": "HIV",
+    "Target": "feeling suicidal"
+  },
+  {
+    "Source": "bipolar disorder",
+    "Target": "feeling suicidal"
+  },
+  {
+    "Source": "bipolar disorder",
+    "Target": "energy increased"
+  },
+  {
+    "Source": "bipolar disorder",
+    "Target": "suicidal"
+  },
+  {
+    "Source": "bipolar disorder",
+    "Target": "irritable mood"
+  },
+  {
+    "Source": "bipolar disorder",
+    "Target": "agitation"
+  },
+  {
+    "Source": "bipolar disorder",
+    "Target": "has religious belief"
+  },
+  {
+    "Source": "bipolar disorder",
+    "Target": "disturbed family"
+  },
+  {
+    "Source": "bipolar disorder",
+    "Target": "hallucinations auditory"
+  },
+  {
+    "Source": "bipolar disorder",
+    "Target": "verbal auditory hallucinations"
+  },
+  {
+    "Source": "bipolar disorder",
+    "Target": "weepiness"
+  },
+  {
+    "Source": "bipolar disorder",
+    "Target": "behavior hyperactive"
+  },
+  {
+    "Source": "bipolar disorder",
+    "Target": "catatonia"
+  },
+  {
+    "Source": "bipolar disorder",
+    "Target": "feeling hopeless"
+  },
+  {
+    "Source": "bipolar disorder",
+    "Target": "worry"
+  },
+  {
+    "Source": "bipolar disorder",
+    "Target": "sleeplessness"
+  },
+  {
+    "Source": "bipolar disorder",
+    "Target": "hypersomnia"
+  },
+  {
+    "Source": "bipolar disorder",
+    "Target": "difficulty"
+  },
+  {
+    "Source": "bipolar disorder",
+    "Target": "hallucinations visual"
+  },
+  {
+    "Source": "bipolar disorder",
+    "Target": "hyperhidrosis disorder"
+  },
+  {
+    "Source": "bipolar disorder",
+    "Target": "mydriasis"
+  },
+  {
+    "Source": "bipolar disorder",
+    "Target": "extrapyramidal sign"
+  },
+  {
+    "Source": "bipolar disorder",
+    "Target": "loose associations"
+  },
+  {
+    "Source": "bipolar disorder",
+    "Target": "intoxication"
+  },
+  {
+    "Source": "bipolar disorder",
+    "Target": "motor retardation"
+  },
+  {
+    "Source": "bipolar disorder",
+    "Target": "homelessness"
+  },
+  {
+    "Source": "bipolar disorder",
+    "Target": "blackout"
+  },
+  {
+    "Source": "bipolar disorder",
+    "Target": "tremor"
+  },
+  {
+    "Source": "bipolar disorder",
+    "Target": "exhaustion"
+  },
+  {
+    "Source": "hypoglycemia",
+    "Target": "unresponsiveness"
+  },
+  {
+    "Source": "hypoglycemia",
+    "Target": ""
+  },
+  {
+    "Source": "hypothermia",
+    "Target": ""
+  },
+  {
+    "Source": "natural",
+    "Target": ""
+  },
+  {
+    "Source": "hypoglycemia",
+    "Target": "incoherent"
+  },
+  {
+    "Source": "hypoglycemia",
+    "Target": "qt interval prolonged"
+  },
+  {
+    "Source": "hypoglycemia",
+    "Target": "lameness"
+  },
+  {
+    "Source": "hypoglycemia",
+    "Target": "claudication"
+  },
+  {
+    "Source": "hypoglycemia",
+    "Target": "unconscious state"
+  },
+  {
+    "Source": "hypoglycemia",
+    "Target": "clammy skin"
+  },
+  {
+    "Source": "hypoglycemia",
+    "Target": "polyuria"
+  },
+  {
+    "Source": "hypoglycemia",
+    "Target": "distress respiratory"
+  },
+  {
+    "Source": "hypoglycemia",
+    "Target": "hypotension"
+  },
+  {
+    "Source": "hepatitis C",
+    "Target": "ascites"
+  },
+  {
+    "Source": "hepatitis C",
+    "Target": "distended abdomen"
+  },
+  {
+    "Source": "hepatitis C",
+    "Target": "feeling suicidal"
+  },
+  {
+    "Source": "hepatitis C",
+    "Target": "cough"
+  },
+  {
+    "Source": "hepatitis C",
+    "Target": "ache"
+  },
+  {
+    "Source": "hepatitis C",
+    "Target": "macerated skin"
+  },
+  {
+    "Source": "hepatitis C",
+    "Target": "heavy feeling"
+  },
+  {
+    "Source": "hepatitis C",
+    "Target": "hallucinations auditory"
+  },
+  {
+    "Source": "hepatitis C",
+    "Target": "chill"
+  },
+  {
+    "Source": "hepatitis C",
+    "Target": "asterixis"
+  },
+  {
+    "Source": "hepatitis C",
+    "Target": "patient non compliance"
+  },
+  {
+    "Source": "malignant tumor of colon",
+    "Target": "lesion"
+  },
+  {
+    "Source": "malignant tumor of colon",
+    "Target": "prostatism"
+  },
+  {
+    "Source": "malignant tumor of colon",
+    "Target": "constipation"
+  },
+  {
+    "Source": "malignant tumor of colon",
+    "Target": "general discomfort"
+  },
+  {
+    "Source": "malignant tumor of colon",
+    "Target": "diarrhea"
+  },
+  {
+    "Source": "malignant tumor of colon",
+    "Target": "pain abdominal"
+  },
+  {
+    "Source": "malignant tumor of colon",
+    "Target": "urinary hesitation"
+  },
+  {
+    "Source": "malignant tumor of colon",
+    "Target": "dizzy spells"
+  },
+  {
+    "Source": "malignant tumor of colon",
+    "Target": "shooting pain"
+  },
+  {
+    "Source": "malignant tumor of colon",
+    "Target": "bradycardia"
+  },
+  {
+    "Source": "malignant tumor of colon",
+    "Target": "vomiting"
+  },
+  {
+    "Source": "malignant tumor of colon",
+    "Target": "systolic ejection murmur"
+  },
+  {
+    "Source": "malignant tumor of colon",
+    "Target": "nausea"
+  },
+  {
+    "Source": "malignant tumor of colon",
+    "Target": "hyperemesis"
+  },
+  {
+    "Source": "malignant tumor of colon",
+    "Target": "polydypsia"
+  },
+  {
+    "Source": "deglutition disorder",
+    "Target": "paresthesia"
+  },
+  {
+    "Source": "deglutition disorder",
+    "Target": "titubation"
+  },
+  {
+    "Source": "deglutition disorder",
+    "Target": "dysarthria"
+  },
+  {
+    "Source": "deglutition disorder",
+    "Target": "painful swallowing"
+  },
+  {
+    "Source": "deglutition disorder",
+    "Target": "hoarseness"
+  },
+  {
+    "Source": "deglutition disorder",
+    "Target": "stridor"
+  },
+  {
+    "Source": "deglutition disorder",
+    "Target": "spasm"
+  },
+  {
+    "Source": "deglutition disorder",
+    "Target": "asthenia"
+  },
+  {
+    "Source": "deglutition disorder",
+    "Target": "dysdiadochokinesia"
+  },
+  {
+    "Source": "deglutition disorder",
+    "Target": "ataxia"
+  },
+  {
+    "Source": "deglutition disorder",
+    "Target": "achalasia"
+  },
+  {
+    "Source": "deglutition disorder",
+    "Target": "decreased body weight"
+  },
+  {
+    "Source": "deglutition disorder",
+    "Target": "stiffness"
+  },
+  {
+    "Source": "deglutition disorder",
+    "Target": "lesion"
+  },
+  {
+    "Source": "deglutition disorder",
+    "Target": "side pain"
+  },
+  {
+    "Source": "biliary calculus",
+    "Target": "vomiting"
+  },
+  {
+    "Source": "biliary calculus",
+    "Target": "nausea"
+  },
+  {
+    "Source": "biliary calculus",
+    "Target": "pain abdominal"
+  },
+  {
+    "Source": "biliary calculus",
+    "Target": "pain"
+  },
+  {
+    "Source": "biliary calculus",
+    "Target": "cushingoid facies"
+  },
+  {
+    "Source": "biliary calculus",
+    "Target": "cushingoid�habitus"
+  },
+  {
+    "Source": "biliary calculus",
+    "Target": "ascites"
+  },
+  {
+    "Source": "biliary calculus",
+    "Target": "thicken"
+  },
+  {
+    "Source": "biliary calculus",
+    "Target": "sore to touch"
+  },
+  {
+    "Source": "biliary calculus",
+    "Target": "diarrhea"
+  },
+  {
+    "Source": "biliary calculus",
+    "Target": "apyrexial"
+  },
+  {
+    "Source": "biliary calculus",
+    "Target": "palpitation"
+  },
+  {
+    "Source": "primary malignant neoplasm",
+    "Target": "pain"
+  },
+  {
+    "Source": "primary malignant neoplasm",
+    "Target": "mass of body structure"
+  },
+  {
+    "Source": "primary malignant neoplasm",
+    "Target": "lesion"
+  },
+  {
+    "Source": "primary malignant neoplasm",
+    "Target": "cushingoid facies"
+  },
+  {
+    "Source": "primary malignant neoplasm",
+    "Target": "cushingoid�habitus"
+  },
+  {
+    "Source": "primary malignant neoplasm",
+    "Target": "emphysematous change"
+  },
+  {
+    "Source": "primary malignant neoplasm",
+    "Target": "decreased body weight"
+  },
+  {
+    "Source": "primary malignant neoplasm",
+    "Target": "ascites"
+  },
+  {
+    "Source": "primary malignant neoplasm",
+    "Target": "hoarseness"
+  },
+  {
+    "Source": "primary malignant neoplasm",
+    "Target": "thicken"
+  },
+  {
+    "Source": "primary malignant neoplasm",
+    "Target": "hematuria"
+  },
+  {
+    "Source": "lymphoma",
+    "Target": "lesion"
+  },
+  {
+    "Source": "lymphoma",
+    "Target": "fever"
+  },
+  {
+    "Source": "lymphoma",
+    "Target": "welt"
+  },
+  {
+    "Source": "lymphoma",
+    "Target": "transaminitis"
+  },
+  {
+    "Source": "lymphoma",
+    "Target": "decreased body weight"
+  },
+  {
+    "Source": "lymphoma",
+    "Target": "ataxia"
+  },
+  {
+    "Source": "lymphoma",
+    "Target": "tinnitus"
+  },
+  {
+    "Source": "lymphoma",
+    "Target": "hydropneumothorax"
+  },
+  {
+    "Source": "lymphoma",
+    "Target": "superimposition"
+  },
+  {
+    "Source": "lymphoma",
+    "Target": "haemoptysis"
+  },
+  {
+    "Source": "lymphoma",
+    "Target": "fatigue"
+  },
+  {
+    "Source": "lymphoma",
+    "Target": "tired"
+  },
+  {
+    "Source": "lymphoma",
+    "Target": "polydypsia"
+  },
+  {
+    "Source": "lymphoma",
+    "Target": "difficulty passing urine"
+  },
+  {
+    "Source": "confusion",
+    "Target": "seizure"
+  },
+  {
+    "Source": "confusion",
+    "Target": "enuresis"
+  },
+  {
+    "Source": "confusion",
+    "Target": "lethargy"
+  },
+  {
+    "Source": "confusion",
+    "Target": "speech slurred"
+  },
+  {
+    "Source": "confusion",
+    "Target": "fall"
+  },
+  {
+    "Source": "confusion",
+    "Target": "consciousness clear"
+  },
+  {
+    "Source": "confusion",
+    "Target": "mental status changes"
+  },
+  {
+    "Source": "confusion",
+    "Target": "asterixis"
+  },
+  {
+    "Source": "confusion",
+    "Target": "unconscious state"
+  },
+  {
+    "Source": "confusion",
+    "Target": "agitation"
+  },
+  {
+    "Source": "confusion",
+    "Target": "muscle twitch"
+  },
+  {
+    "Source": "confusion",
+    "Target": "asthenia"
+  },
+  {
+    "Source": "confusion",
+    "Target": "sleepy"
+  },
+  {
+    "Source": "confusion",
+    "Target": "dizziness"
+  },
+  {
+    "Source": "confusion",
+    "Target": "headache"
+  },
+  {
+    "Source": "confusion",
+    "Target": "dysarthria"
+  },
+  {
+    "Source": "confusion",
+    "Target": "lightheadedness"
+  },
+  {
+    "Source": "confusion",
+    "Target": "tremor"
+  },
+  {
+    "Source": "confusion",
+    "Target": "hyponatremia"
+  },
+  {
+    "Source": "confusion",
+    "Target": "unresponsiveness"
+  },
+  {
+    "Source": "obesity morbid",
+    "Target": "out of breath"
+  },
+  {
+    "Source": "obesity morbid",
+    "Target": "sedentary"
+  },
+  {
+    "Source": "obesity morbid",
+    "Target": "angina pectoris"
+  },
+  {
+    "Source": "obesity morbid",
+    "Target": "cough"
+  },
+  {
+    "Source": "obesity morbid",
+    "Target": "unhappy"
+  },
+  {
+    "Source": "obesity morbid",
+    "Target": "labored breathing"
+  },
+  {
+    "Source": "obesity morbid",
+    "Target": ""
+  },
+  {
+    "Source": "hypothermia",
+    "Target": ""
+  },
+  {
+    "Source": "natural",
+    "Target": ""
+  },
+  {
+    "Source": "obesity morbid",
+    "Target": "dyspnea"
+  },
+  {
+    "Source": "obesity morbid",
+    "Target": "hematocrit decreased"
+  },
+  {
+    "Source": "obesity morbid",
+    "Target": "wheezing"
+  },
+  {
+    "Source": "obesity morbid",
+    "Target": "hypoxemia"
+  },
+  {
+    "Source": "obesity morbid",
+    "Target": "renal angle tenderness"
+  },
+  {
+    "Source": "obesity morbid",
+    "Target": "feels hot/feverish"
+  },
+  {
+    "Source": "arthritis",
+    "Target": "pain"
+  },
+  {
+    "Source": "arthritis",
+    "Target": "hemodynamically stable"
+  },
+  {
+    "Source": "arthritis",
+    "Target": "sleeplessness"
+  },
+  {
+    "Source": "arthritis",
+    "Target": "asthenia"
+  },
+  {
+    "Source": "arthritis",
+    "Target": "syncope"
+  },
+  {
+    "Source": "arthritis",
+    "Target": "swelling"
+  },
+  {
+    "Source": "arthritis",
+    "Target": "atypia"
+  },
+  {
+    "Source": "arthritis",
+    "Target": "general unsteadiness"
+  },
+  {
+    "Source": "arthritis",
+    "Target": "shortness of breath"
+  },
+  {
+    "Source": "arthritis",
+    "Target": "distended abdomen"
+  },
+  {
+    "Source": "accident�cerebrovascular",
+    "Target": "dysarthria"
+  },
+  {
+    "Source": "accident�cerebrovascular",
+    "Target": "asthenia"
+  },
+  {
+    "Source": "accident�cerebrovascular",
+    "Target": "speech slurred"
+  },
+  {
+    "Source": "accident�cerebrovascular",
+    "Target": "facial paresis"
+  },
+  {
+    "Source": "accident�cerebrovascular",
+    "Target": "hemiplegia"
+  },
+  {
+    "Source": "accident�cerebrovascular",
+    "Target": "unresponsiveness"
+  },
+  {
+    "Source": "accident�cerebrovascular",
+    "Target": "seizure"
+  },
+  {
+    "Source": "accident�cerebrovascular",
+    "Target": "numbness"
+  },
+  {
+    "Source": "mitral valve insufficiency",
+    "Target": "shortness of breath"
+  },
+  {
+    "Source": "mitral valve insufficiency",
+    "Target": "dyspnea on exertion"
+  },
+  {
+    "Source": "mitral valve insufficiency",
+    "Target": "asymptomatic"
+  },
+  {
+    "Source": "mitral valve insufficiency",
+    "Target": "hypokinesia"
+  },
+  {
+    "Source": "mitral valve insufficiency",
+    "Target": "dyspnea"
+  },
+  {
+    "Source": "mitral valve insufficiency",
+    "Target": "syncope"
+  },
+  {
+    "Source": "mitral valve insufficiency",
+    "Target": "thicken"
+  },
+  {
+    "Source": "mitral valve insufficiency",
+    "Target": "left�atrial�hypertrophy"
+  },
+  {
+    "Source": "mitral valve insufficiency",
+    "Target": "palpitation"
+  },
+  {
+    "Source": "mitral valve insufficiency",
+    "Target": "fatigue"
+  },
+  {
+    "Source": "mitral valve insufficiency",
+    "Target": "vomiting"
+  },
+  {
+    "Source": "mitral valve insufficiency",
+    "Target": "pain"
+  },
+  {
+    "Source": "mitral valve insufficiency",
+    "Target": "cardiomegaly"
+  },
+  {
+    "Source": "mitral valve insufficiency",
+    "Target": "chest discomfort"
+  },
+  {
+    "Source": "edema pulmonary",
+    "Target": "urgency of�micturition"
+  },
+  {
+    "Source": "edema pulmonary",
+    "Target": "shortness of breath"
+  },
+  {
+    "Source": "edema pulmonary",
+    "Target": "rale"
+  },
+  {
+    "Source": "edema pulmonary",
+    "Target": "tachypnea"
+  },
+  {
+    "Source": "edema pulmonary",
+    "Target": "orthopnea"
+  },
+  {
+    "Source": "edema pulmonary",
+    "Target": "Heberden's node"
+  },
+  {
+    "Source": "edema pulmonary",
+    "Target": "jugular venous distention"
+  },
+  {
+    "Source": "edema pulmonary",
+    "Target": "dyspnea"
+  },
+  {
+    "Source": "edema pulmonary",
+    "Target": "sweat"
+  },
+  {
+    "Source": "edema pulmonary",
+    "Target": "sweating increased"
+  },
+  {
+    "Source": "edema pulmonary",
+    "Target": "patient non compliance"
+  },
+  {
+    "Source": "edema pulmonary",
+    "Target": "chest discomfort"
+  },
+  {
+    "Source": "edema pulmonary",
+    "Target": "hyperkalemia"
+  },
+  {
+    "Source": "edema pulmonary",
+    "Target": "sinus rhythm"
+  },
+  {
+    "Source": "edema pulmonary",
+    "Target": "pain chest"
+  },
+  {
+    "Source": "edema pulmonary",
+    "Target": "hypotension"
+  },
+  {
+    "Source": "edema pulmonary",
+    "Target": "wheezing"
+  },
+  {
+    "Source": "malignant neoplasms",
+    "Target": "pain"
+  },
+  {
+    "Source": "malignant neoplasms",
+    "Target": "mass of body structure"
+  },
+  {
+    "Source": "malignant neoplasms",
+    "Target": "lesion"
+  },
+  {
+    "Source": "malignant neoplasms",
+    "Target": "cushingoid facies"
+  },
+  {
+    "Source": "malignant neoplasms",
+    "Target": "cushingoid�habitus"
+  },
+  {
+    "Source": "malignant neoplasms",
+    "Target": "emphysematous change"
+  },
+  {
+    "Source": "malignant neoplasms",
+    "Target": "decreased body weight"
+  },
+  {
+    "Source": "malignant neoplasms",
+    "Target": "ascites"
+  },
+  {
+    "Source": "malignant neoplasms",
+    "Target": "hoarseness"
+  },
+  {
+    "Source": "malignant neoplasms",
+    "Target": "thicken"
+  },
+  {
+    "Source": "malignant neoplasms",
+    "Target": "hematuria"
+  },
+  {
+    "Source": "hyperglycemia",
+    "Target": "sore to touch"
+  },
+  {
+    "Source": "hyperglycemia",
+    "Target": "pruritus"
+  },
+  {
+    "Source": "hyperglycemia",
+    "Target": "feeling strange"
+  },
+  {
+    "Source": "hyperglycemia",
+    "Target": "pustule"
+  },
+  {
+    "Source": "hyperglycemia",
+    "Target": "cushingoid facies"
+  },
+  {
+    "Source": "hyperglycemia",
+    "Target": "cushingoid�habitus"
+  },
+  {
+    "Source": "hyperglycemia",
+    "Target": "decreased body weight"
+  },
+  {
+    "Source": "hyperglycemia",
+    "Target": "mood depressed"
+  },
+  {
+    "Source": "hyperglycemia",
+    "Target": "estrogen use"
+  },
+  {
+    "Source": "hyperglycemia",
+    "Target": "wheezing"
+  },
+  {
+    "Source": "hyperglycemia",
+    "Target": "ascites"
+  },
+  {
+    "Source": "hyperglycemia",
+    "Target": "seizure"
+  },
+  {
+    "Source": "epilepsy",
+    "Target": "seizure"
+  },
+  {
+    "Source": "epilepsy",
+    "Target": "hypometabolism"
+  },
+  {
+    "Source": "epilepsy",
+    "Target": "aura"
+  },
+  {
+    "Source": "epilepsy",
+    "Target": "muscle twitch"
+  },
+  {
+    "Source": "epilepsy",
+    "Target": "drowsiness"
+  },
+  {
+    "Source": "epilepsy",
+    "Target": "tremor"
+  },
+  {
+    "Source": "epilepsy",
+    "Target": "unresponsiveness"
+  },
+  {
+    "Source": "epilepsy",
+    "Target": "hemiplegia"
+  },
+  {
+    "Source": "epilepsy",
+    "Target": "myoclonus"
+  },
+  {
+    "Source": "epilepsy",
+    "Target": "gurgle"
+  },
+  {
+    "Source": "epilepsy",
+    "Target": "sleepy"
+  },
+  {
+    "Source": "epilepsy",
+    "Target": "lethargy"
+  },
+  {
+    "Source": "epilepsy",
+    "Target": "wheelchair bound"
+  },
+  {
+    "Source": "Pneumocystis�carinii�pneumonia",
+    "Target": "yellow sputum"
+  },
+  {
+    "Source": "Pneumocystis�carinii�pneumonia",
+    "Target": "cachexia"
+  },
+  {
+    "Source": "Pneumocystis�carinii�pneumonia",
+    "Target": "chill"
+  },
+  {
+    "Source": "Pneumocystis�carinii�pneumonia",
+    "Target": "decreased body weight"
+  },
+  {
+    "Source": "Pneumocystis�carinii�pneumonia",
+    "Target": "productive cough"
+  },
+  {
+    "Source": "Pneumocystis�carinii�pneumonia",
+    "Target": "myalgia"
+  },
+  {
+    "Source": "Pneumocystis�carinii�pneumonia",
+    "Target": "diarrhea"
+  },
+  {
+    "Source": "Pneumocystis�carinii�pneumonia",
+    "Target": "neck stiffness"
+  },
+  {
+    "Source": "Pneumocystis�carinii�pneumonia",
+    "Target": "hacking cough"
+  },
+  {
+    "Source": "Pneumocystis�carinii�pneumonia",
+    "Target": "dyspareunia"
+  },
+  {
+    "Source": "Pneumocystis�carinii�pneumonia",
+    "Target": "hypokalemia"
+  },
+  {
+    "Source": "Pneumocystis�carinii�pneumonia",
+    "Target": "dyspnea on exertion"
+  },
+  {
+    "Source": "Pneumocystis�carinii�pneumonia",
+    "Target": "poor dentition"
+  },
+  {
+    "Source": "Pneumocystis�carinii�pneumonia",
+    "Target": "transaminitis"
+  },
+  {
+    "Source": "Pneumocystis�carinii�pneumonia",
+    "Target": "non-productive cough"
+  },
+  {
+    "Source": "Pneumocystis�carinii�pneumonia",
+    "Target": "headache"
+  },
+  {
+    "Source": "Pneumocystis�carinii�pneumonia",
+    "Target": "floppy"
+  },
+  {
+    "Source": "Pneumocystis�carinii�pneumonia",
+    "Target": "spontaneous rupture of membranes"
+  },
+  {
+    "Source": "pneumonia aspiration",
+    "Target": "mediastinal shift"
+  },
+  {
+    "Source": "pneumonia aspiration",
+    "Target": "fever"
+  },
+  {
+    "Source": "pneumonia aspiration",
+    "Target": "clonus"
+  },
+  {
+    "Source": "pneumonia aspiration",
+    "Target": "mental status changes"
+  },
+  {
+    "Source": "pneumonia aspiration",
+    "Target": "decreased translucency"
+  },
+  {
+    "Source": "pneumonia aspiration",
+    "Target": "unresponsiveness"
+  },
+  {
+    "Source": "pneumonia aspiration",
+    "Target": "extreme exhaustion"
+  },
+  {
+    "Source": "pneumonia aspiration",
+    "Target": "stupor"
+  },
+  {
+    "Source": "pneumonia aspiration",
+    "Target": "seizure"
+  },
+  {
+    "Source": "pneumonia aspiration",
+    "Target": "transaminitis"
+  },
+  {
+    "Source": "pneumonia aspiration",
+    "Target": "hemiplegia"
+  },
+  {
+    "Source": "pneumonia aspiration",
+    "Target": "cough"
+  },
+  {
+    "Source": "pneumonia aspiration",
+    "Target": "gurgle"
+  },
+  {
+    "Source": "pneumonia aspiration",
+    "Target": "pain"
+  },
+  {
+    "Source": "pneumonia aspiration",
+    "Target": "diarrhea"
+  },
+  {
+    "Source": "pneumonia aspiration",
+    "Target": "pain abdominal"
+  },
+  {
+    "Source": "coronary arteriosclerosis",
+    "Target": "pain chest"
+  },
+  {
+    "Source": "coronary arteriosclerosis",
+    "Target": "angina pectoris"
+  },
+  {
+    "Source": "coronary arteriosclerosis",
+    "Target": "shortness of breath"
+  },
+  {
+    "Source": "coronary arteriosclerosis",
+    "Target": "hypokinesia"
+  },
+  {
+    "Source": "coronary arteriosclerosis",
+    "Target": "sweat"
+  },
+  {
+    "Source": "coronary arteriosclerosis",
+    "Target": "sweating increased"
+  },
+  {
+    "Source": "coronary arteriosclerosis",
+    "Target": "pressure chest"
+  },
+  {
+    "Source": "coronary arteriosclerosis",
+    "Target": "dyspnea on exertion"
+  },
+  {
+    "Source": "coronary arteriosclerosis",
+    "Target": "orthopnea"
+  },
+  {
+    "Source": "coronary arteriosclerosis",
+    "Target": "chest tightness"
+  },
+  {
+    "Source": "infection urinary tract",
+    "Target": "fever"
+  },
+  {
+    "Source": "infection urinary tract",
+    "Target": "dysuria"
+  },
+  {
+    "Source": "infection urinary tract",
+    "Target": "hematuria"
+  },
+  {
+    "Source": "infection urinary tract",
+    "Target": "renal angle tenderness"
+  },
+  {
+    "Source": "infection urinary tract",
+    "Target": "lethargy"
+  },
+  {
+    "Source": "infection urinary tract",
+    "Target": "asthenia"
+  },
+  {
+    "Source": "infection urinary tract",
+    "Target": "hyponatremia"
+  },
+  {
+    "Source": "infection urinary tract",
+    "Target": "hemodynamically stable"
+  },
+  {
+    "Source": "infection urinary tract",
+    "Target": "distress respiratory"
+  },
+  {
+    "Source": "infection urinary tract",
+    "Target": "difficulty passing urine"
+  },
+  {
+    "Source": "infection urinary tract",
+    "Target": "mental status changes"
+  },
+  {
+    "Source": "infection urinary tract",
+    "Target": "consciousness clear"
+  },
+  {
+    "Source": "neuropathy",
+    "Target": "asthenia"
+  },
+  {
+    "Source": "neuropathy",
+    "Target": "numbness"
+  },
+  {
+    "Source": "neuropathy",
+    "Target": "nausea and vomiting"
+  },
+  {
+    "Source": "neuropathy",
+    "Target": "awakening early"
+  },
+  {
+    "Source": "neuropathy",
+    "Target": "hydropneumothorax"
+  },
+  {
+    "Source": "neuropathy",
+    "Target": "superimposition"
+  },
+  {
+    "Source": "neuropathy",
+    "Target": "fatigability"
+  },
+  {
+    "Source": "neuropathy",
+    "Target": "tenesmus"
+  },
+  {
+    "Source": "neuropathy",
+    "Target": "pain"
+  },
+  {
+    "Source": "neuropathy",
+    "Target": "slowing of urinary stream"
+  },
+  {
+    "Source": "thrombocytopaenia",
+    "Target": "ecchymosis"
+  },
+  {
+    "Source": "thrombocytopaenia",
+    "Target": "monocytosis"
+  },
+  {
+    "Source": "thrombocytopaenia",
+    "Target": "posterior�rhinorrhea"
+  },
+  {
+    "Source": "thrombocytopaenia",
+    "Target": "haemorrhage"
+  },
+  {
+    "Source": "thrombocytopaenia",
+    "Target": "tachypnea"
+  },
+  {
+    "Source": "thrombocytopaenia",
+    "Target": "fever"
+  },
+  {
+    "Source": "thrombocytopaenia",
+    "Target": "pruritus"
+  },
+  {
+    "Source": "thrombocytopaenia",
+    "Target": "hypotension"
+  },
+  {
+    "Source": "thrombocytopaenia",
+    "Target": "fatigue"
+  },
+  {
+    "Source": "adenocarcinoma",
+    "Target": "mass of body structure"
+  },
+  {
+    "Source": "adenocarcinoma",
+    "Target": "lesion"
+  },
+  {
+    "Source": "adenocarcinoma",
+    "Target": "decreased body weight"
+  },
+  {
+    "Source": "adenocarcinoma",
+    "Target": "constipation"
+  },
+  {
+    "Source": "adenocarcinoma",
+    "Target": "fremitus"
+  },
+  {
+    "Source": "adenocarcinoma",
+    "Target": "decreased stool caliber"
+  },
+  {
+    "Source": "adenocarcinoma",
+    "Target": "satiety early"
+  },
+  {
+    "Source": "adenocarcinoma",
+    "Target": "hematochezia"
+  },
+  {
+    "Source": "adenocarcinoma",
+    "Target": "egophony"
+  },
+  {
+    "Source": "adenocarcinoma",
+    "Target": "pain"
+  },
+  {
+    "Source": "adenocarcinoma",
+    "Target": "cicatrisation"
+  },
+  {
+    "Source": "adenocarcinoma",
+    "Target": "scar tissue"
+  },
+  {
+    "Source": "adenocarcinoma",
+    "Target": "pain abdominal"
+  },
+  {
+    "Source": "incontinence",
+    "Target": "paraparesis"
+  },
+  {
+    "Source": "incontinence",
+    "Target": "seizure"
+  },
+  {
+    "Source": "incontinence",
+    "Target": "asthenia"
+  },
+  {
+    "Source": "incontinence",
+    "Target": "urge incontinence"
+  },
+  {
+    "Source": "incontinence",
+    "Target": "unconscious state"
+  },
+  {
+    "Source": "incontinence",
+    "Target": "aura"
+  },
+  {
+    "Source": "incontinence",
+    "Target": "moody"
+  },
+  {
+    "Source": "incontinence",
+    "Target": "fear of falling"
+  },
+  {
+    "Source": "incontinence",
+    "Target": "tremor"
+  },
+  {
+    "Source": "incontinence",
+    "Target": "spasm"
+  },
+  {
+    "Source": "incontinence",
+    "Target": "unhappy"
+  },
+  {
+    "Source": "incontinence",
+    "Target": "syncope"
+  },
+  {
+    "Source": "incontinence",
+    "Target": "fall"
+  },
+  {
+    "Source": "incontinence",
+    "Target": "stiffness"
+  },
+  {
+    "Source": "incontinence",
+    "Target": "unresponsiveness"
+  },
+  {
+    "Source": "systemic infection",
+    "Target": "fever"
+  },
+  {
+    "Source": "systemic infection",
+    "Target": "distress respiratory"
+  },
+  {
+    "Source": "systemic infection",
+    "Target": "hypotension"
+  },
+  {
+    "Source": "systemic infection",
+    "Target": "tachypnea"
+  },
+  {
+    "Source": "systemic infection",
+    "Target": "chill"
+  },
+  {
+    "Source": "systemic infection",
+    "Target": "lethargy"
+  },
+  {
+    "Source": "systemic infection",
+    "Target": "bradycardia"
+  },
+  {
+    "Source": "systemic infection",
+    "Target": "breech presentation"
+  },
+  {
+    "Source": "systemic infection",
+    "Target": "cyanosis"
+  },
+  {
+    "Source": "systemic infection",
+    "Target": "spontaneous rupture of membranes"
+  },
+  {
+    "Source": "systemic infection",
+    "Target": "haemorrhage"
+  },
+  {
+    "Source": "systemic infection",
+    "Target": "unresponsiveness"
+  },
+  {
+    "Source": "systemic infection",
+    "Target": "rale"
+  },
+  {
+    "Source": "systemic infection",
+    "Target": "apyrexial"
+  },
+  {
+    "Source": "ileus",
+    "Target": "abscess bacterial"
+  },
+  {
+    "Source": "ileus",
+    "Target": "abdomen acute"
+  },
+  {
+    "Source": "ileus",
+    "Target": "air fluid level"
+  },
+  {
+    "Source": "ileus",
+    "Target": "catching breath"
+  },
+  {
+    "Source": "ileus",
+    "Target": "abdominal tenderness"
+  },
+  {
+    "Source": "ileus",
+    "Target": "nausea"
+  },
+  {
+    "Source": "ileus",
+    "Target": "sore to touch"
+  },
+  {
+    "Source": "ileus",
+    "Target": "flatulence"
+  },
+  {
+    "Source": "ileus",
+    "Target": "diarrhea"
+  },
+  {
+    "Source": "ileus",
+    "Target": "mass of body structure"
+  },
+  {
+    "Source": "ileus",
+    "Target": "apyrexial"
+  },
+  {
+    "Source": "ileus",
+    "Target": "constipation"
+  },
+  {
+    "Source": "ileus",
+    "Target": "thicken"
+  },
+  {
+    "Source": "ileus",
+    "Target": "gravida"
+  },
+  {
+    "Source": "ileus",
+    "Target": "pain abdominal"
+  },
+  {
+    "Source": "bronchitis",
+    "Target": "cough"
+  },
+  {
+    "Source": "bronchitis",
+    "Target": "wheezing"
+  },
+  {
+    "Source": "bronchitis",
+    "Target": "shortness of breath"
+  },
+  {
+    "Source": "bronchitis",
+    "Target": "chest tightness"
+  },
+  {
+    "Source": "bronchitis",
+    "Target": "fever"
+  },
+  {
+    "Source": "bronchitis",
+    "Target": "throat sore"
+  },
+  {
+    "Source": "bronchitis",
+    "Target": "productive cough"
+  },
+  {
+    "Source": "bronchitis",
+    "Target": "hepatosplenomegaly"
+  },
+  {
+    "Source": "bronchitis",
+    "Target": "night sweat"
+  },
+  {
+    "Source": "bronchitis",
+    "Target": "haemoptysis"
+  },
+  {
+    "Source": "bronchitis",
+    "Target": "labored breathing"
+  },
+  {
+    "Source": "bronchitis",
+    "Target": "snuffle"
+  },
+  {
+    "Source": "bronchitis",
+    "Target": "hacking cough"
+  },
+  {
+    "Source": "bronchitis",
+    "Target": "dyspnea"
+  },
+  {
+    "Source": "bronchitis",
+    "Target": "chill"
+  },
+  {
+    "Source": "bronchitis",
+    "Target": "stridor"
+  },
+  {
+    "Source": "bronchitis",
+    "Target": "decreased body weight"
+  },
+  {
+    "Source": "hiv infections",
+    "Target": "fever"
+  },
+  {
+    "Source": "hiv infections",
+    "Target": "night sweat"
+  },
+  {
+    "Source": "hiv infections",
+    "Target": "spontaneous rupture of membranes"
+  },
+  {
+    "Source": "hiv infections",
+    "Target": "cough"
+  },
+  {
+    "Source": "hiv infections",
+    "Target": ""
+  },
+  {
+    "Source": "hiv infections",
+    "Target": "decreased body weight"
+  },
+  {
+    "Source": "hiv infections",
+    "Target": "chill"
+  },
+  {
+    "Source": "hiv infections",
+    "Target": "diarrhea"
+  },
+  {
+    "Source": "hiv infections",
+    "Target": "pleuritic pain"
+  },
+  {
+    "Source": "hiv infections",
+    "Target": "patient non compliance"
+  },
+  {
+    "Source": "hiv infections",
+    "Target": "tachypnea"
+  },
+  {
+    "Source": "hiv infections",
+    "Target": "productive cough"
+  },
+  {
+    "Source": "hiv infections",
+    "Target": "muscle hypotonia"
+  },
+  {
+    "Source": "hiv infections",
+    "Target": "hypotonic"
+  },
+  {
+    "Source": "hiv infections",
+    "Target": "feeling suicidal"
+  },
+  {
+    "Source": "paroxysmal�dyspnea",
+    "Target": "orthopnea"
+  },
+  {
+    "Source": "paroxysmal�dyspnea",
+    "Target": "shortness of breath"
+  },
+  {
+    "Source": "paroxysmal�dyspnea",
+    "Target": "dyspnea on exertion"
+  },
+  {
+    "Source": "paroxysmal�dyspnea",
+    "Target": "jugular venous distention"
+  },
+  {
+    "Source": "paroxysmal�dyspnea",
+    "Target": "rale"
+  },
+  {
+    "Source": "paroxysmal�dyspnea",
+    "Target": "pain chest"
+  },
+  {
+    "Source": "paroxysmal�dyspnea",
+    "Target": "palpitation"
+  },
+  {
+    "Source": "paroxysmal�dyspnea",
+    "Target": "sweat"
+  },
+  {
+    "Source": "paroxysmal�dyspnea",
+    "Target": "sweating increased"
+  },
+  {
+    "Source": "paroxysmal�dyspnea",
+    "Target": "weight gain"
+  },
+  {
+    "Source": "paroxysmal�dyspnea",
+    "Target": "cough"
+  },
+  {
+    "Source": "paroxysmal�dyspnea",
+    "Target": "dyspnea"
+  },
+  {
+    "Source": "chronic alcoholic intoxication",
+    "Target": "tremor"
+  },
+  {
+    "Source": "chronic alcoholic intoxication",
+    "Target": "hallucinations auditory"
+  },
+  {
+    "Source": "chronic alcoholic intoxication",
+    "Target": "suicidal"
+  },
+  {
+    "Source": "chronic alcoholic intoxication",
+    "Target": "hoard"
+  },
+  {
+    "Source": "chronic alcoholic intoxication",
+    "Target": "irritable mood"
+  },
+  {
+    "Source": "chronic alcoholic intoxication",
+    "Target": "feeling hopeless"
+  },
+  {
+    "Source": "chronic alcoholic intoxication",
+    "Target": "feeling suicidal"
+  },
+  {
+    "Source": "chronic alcoholic intoxication",
+    "Target": "neologism"
+  },
+  {
+    "Source": "chronic alcoholic intoxication",
+    "Target": "seizure"
+  },
+  {
+    "Source": "chronic alcoholic intoxication",
+    "Target": "homelessness"
+  },
+  {
+    "Source": "chronic alcoholic intoxication",
+    "Target": "sleeplessness"
+  },
+  {
+    "Source": "chronic alcoholic intoxication",
+    "Target": "unconscious state"
+  },
+  {
+    "Source": "chronic alcoholic intoxication",
+    "Target": "panic"
+  },
+  {
+    "Source": "chronic alcoholic intoxication",
+    "Target": "breath sounds decreased"
+  },
+  {
+    "Source": "chronic alcoholic intoxication",
+    "Target": "shortness of breath"
+  },
+  {
+    "Source": "tonic-clonic seizures",
+    "Target": "drowsiness"
+  },
+  {
+    "Source": "tonic-clonic seizures",
+    "Target": "lip smacking"
+  },
+  {
+    "Source": "tonic-clonic seizures",
+    "Target": "myoclonus"
+  },
+  {
+    "Source": "tonic-clonic seizures",
+    "Target": "tremor"
+  },
+  {
+    "Source": "tonic-clonic seizures",
+    "Target": "phonophobia"
+  },
+  {
+    "Source": "tonic-clonic seizures",
+    "Target": "rolling of eyes"
+  },
+  {
+    "Source": "tonic-clonic seizures",
+    "Target": "sleepy"
+  },
+  {
+    "Source": "tonic-clonic seizures",
+    "Target": "hirsutism"
+  },
+  {
+    "Source": "tonic-clonic seizures",
+    "Target": "moody"
+  },
+  {
+    "Source": "tonic-clonic seizures",
+    "Target": "muscle twitch"
+  },
+  {
+    "Source": "tonic-clonic seizures",
+    "Target": "unresponsiveness"
+  },
+  {
+    "Source": "tonic-clonic seizures",
+    "Target": "headache"
+  },
+  {
+    "Source": "tonic-clonic seizures",
+    "Target": "ambidexterity"
+  },
+  {
+    "Source": "tonic-clonic seizures",
+    "Target": "absences finding"
+  },
+  {
+    "Source": "tonic-clonic seizures",
+    "Target": "spasm"
+  },
+  {
+    "Source": "tonic-clonic seizures",
+    "Target": "decreased body weight"
+  },
+  {
+    "Source": "tonic-clonic seizures",
+    "Target": "tumor cell invasion"
+  },
+  {
+    "Source": "diverticulosis",
+    "Target": "fecaluria"
+  },
+  {
+    "Source": "diverticulosis",
+    "Target": "constipation"
+  },
+  {
+    "Source": "diverticulosis",
+    "Target": "abscess bacterial"
+  },
+  {
+    "Source": "diverticulosis",
+    "Target": "heme positive"
+  },
+  {
+    "Source": "diverticulosis",
+    "Target": "lightheadedness"
+  },
+  {
+    "Source": "diverticulosis",
+    "Target": "diarrhea"
+  },
+  {
+    "Source": "diverticulosis",
+    "Target": "haemorrhage"
+  },
+  {
+    "Source": "diverticulosis",
+    "Target": "pain"
+  },
+  {
+    "Source": "diverticulosis",
+    "Target": "projectile vomiting"
+  },
+  {
+    "Source": "diverticulosis",
+    "Target": "pneumatouria"
+  },
+  {
+    "Source": "diverticulosis",
+    "Target": "cystic lesion"
+  },
+  {
+    "Source": "diverticulosis",
+    "Target": "anorexia"
+  },
+  {
+    "Source": "diverticulosis",
+    "Target": "nausea"
+  },
+  {
+    "Source": "diverticulosis",
+    "Target": "feeling suicidal"
+  },
+  {
+    "Source": "diverticulosis",
+    "Target": "feeling hopeless"
+  },
+  {
+    "Source": "ulcer peptic",
+    "Target": "pain abdominal"
+  },
+  {
+    "Source": "ulcer peptic",
+    "Target": "paraparesis"
+  },
+  {
+    "Source": "ulcer peptic",
+    "Target": "nausea"
+  },
+  {
+    "Source": "ulcer peptic",
+    "Target": "vomiting"
+  },
+  {
+    "Source": "ulcer peptic",
+    "Target": "polymyalgia"
+  },
+  {
+    "Source": "ulcer peptic",
+    "Target": "out of breath"
+  },
+  {
+    "Source": "ulcer peptic",
+    "Target": "pain chest"
+  },
+  {
+    "Source": "ulcer peptic",
+    "Target": "hemiplegia"
+  },
+  {
+    "Source": "ulcer peptic",
+    "Target": "gurgle"
+  },
+  {
+    "Source": "ulcer peptic",
+    "Target": "hunger"
+  },
+  {
+    "Source": "ulcer peptic",
+    "Target": "apyrexial"
+  },
+  {
+    "Source": "ulcer peptic",
+    "Target": "nervousness"
+  },
+  {
+    "Source": "hemiparesis",
+    "Target": "dysarthria"
+  },
+  {
+    "Source": "hemiparesis",
+    "Target": "paresis"
+  },
+  {
+    "Source": "hemiparesis",
+    "Target": "asthenia"
+  },
+  {
+    "Source": "hemiparesis",
+    "Target": "aphagia"
+  },
+  {
+    "Source": "hemiparesis",
+    "Target": "seizure"
+  },
+  {
+    "Source": "hemiparesis",
+    "Target": "speech slurred"
+  },
+  {
+    "Source": "hemiparesis",
+    "Target": "focal seizures"
+  },
+  {
+    "Source": "hemiparesis",
+    "Target": "hemiplegia"
+  },
+  {
+    "Source": "hemiparesis",
+    "Target": "abnormal sensation"
+  },
+  {
+    "Source": "hemiparesis",
+    "Target": "unresponsiveness"
+  },
+  {
+    "Source": "hemiparesis",
+    "Target": "stupor"
+  },
+  {
+    "Source": "hemiparesis",
+    "Target": "drowsiness"
+  },
+  {
+    "Source": "hemiparesis",
+    "Target": "sleepy"
+  },
+  {
+    "Source": "hemiparesis",
+    "Target": "fremitus"
+  },
+  {
+    "Source": "hemiparesis",
+    "Target": "Stahli's line"
+  },
+  {
+    "Source": "hemiparesis",
+    "Target": "stinging sensation"
+  },
+  {
+    "Source": "hemiparesis",
+    "Target": "paralyse"
+  },
+  {
+    "Source": "hemiparesis",
+    "Target": "clonus"
+  },
+  {
+    "Source": "hemiparesis",
+    "Target": "facial paresis"
+  },
+  {
+    "Source": "gout",
+    "Target": "hot flush"
+  },
+  {
+    "Source": "gout",
+    "Target": "pain"
+  },
+  {
+    "Source": "gout",
+    "Target": "redness"
+  },
+  {
+    "Source": "gout",
+    "Target": "swelling"
+  },
+  {
+    "Source": "gout",
+    "Target": "erythema"
+  },
+  {
+    "Source": "gout",
+    "Target": "emphysematous change"
+  },
+  {
+    "Source": "gout",
+    "Target": "sore to touch"
+  },
+  {
+    "Source": "gout",
+    "Target": "hypokinesia"
+  },
+  {
+    "Source": "gout",
+    "Target": "ascites"
+  },
+  {
+    "Source": "gout",
+    "Target": "patient non compliance"
+  },
+  {
+    "Source": "neutropenia",
+    "Target": "transaminitis"
+  },
+  {
+    "Source": "neutropenia",
+    "Target": "splenomegaly"
+  },
+  {
+    "Source": "neutropenia",
+    "Target": "night sweat"
+  },
+  {
+    "Source": "neutropenia",
+    "Target": "apyrexial"
+  },
+  {
+    "Source": "neutropenia",
+    "Target": "lesion"
+  },
+  {
+    "Source": "neutropenia",
+    "Target": "snuffle"
+  },
+  {
+    "Source": "neutropenia",
+    "Target": "chill"
+  },
+  {
+    "Source": "neutropenia",
+    "Target": "cough"
+  },
+  {
+    "Source": "neutropenia",
+    "Target": "monoclonal"
+  },
+  {
+    "Source": "neutropenia",
+    "Target": "hypocalcemia result"
+  },
+  {
+    "Source": "neutropenia",
+    "Target": "oliguria"
+  },
+  {
+    "Source": "neutropenia",
+    "Target": "rhd positive"
+  },
+  {
+    "Source": "neutropenia",
+    "Target": "distress respiratory"
+  },
+  {
+    "Source": "carcinoma",
+    "Target": "mass of body structure"
+  },
+  {
+    "Source": "carcinoma",
+    "Target": "pain"
+  },
+  {
+    "Source": "carcinoma",
+    "Target": "lesion"
+  },
+  {
+    "Source": "carcinoma",
+    "Target": "tumor cell invasion"
+  },
+  {
+    "Source": "carcinoma",
+    "Target": "thicken"
+  },
+  {
+    "Source": "carcinoma",
+    "Target": "decreased body weight"
+  },
+  {
+    "Source": "carcinoma",
+    "Target": "hoarseness"
+  },
+  {
+    "Source": "carcinoma",
+    "Target": "general discomfort"
+  },
+  {
+    "Source": "carcinoma",
+    "Target": "metastatic lesion"
+  },
+  {
+    "Source": "carcinoma",
+    "Target": "non-productive cough"
+  },
+  {
+    "Source": "carcinoma",
+    "Target": "constipation"
+  },
+  {
+    "Source": "carcinoma",
+    "Target": "unhappy"
+  },
+  {
+    "Source": "carcinoma",
+    "Target": "paresthesia"
+  },
+  {
+    "Source": "carcinoma",
+    "Target": "gravida"
+  },
+  {
+    "Source": "carcinoma",
+    "Target": "diarrhea"
+  },
+  {
+    "Source": "carcinoma",
+    "Target": "sore to touch"
+  },
+  {
+    "Source": "carcinoma",
+    "Target": "heartburn"
+  },
+  {
+    "Source": "carcinoma",
+    "Target": "nausea"
+  },
+  {
+    "Source": "carcinoma",
+    "Target": "lung nodule"
+  },
+  {
+    "Source": "hypertensive disease",
+    "Target": "pain chest"
+  },
+  {
+    "Source": "hypertensive disease",
+    "Target": "shortness of breath"
+  },
+  {
+    "Source": "hypertensive disease",
+    "Target": "dizziness"
+  },
+  {
+    "Source": "hypertensive disease",
+    "Target": "asthenia"
+  },
+  {
+    "Source": "hypertensive disease",
+    "Target": "fall"
+  },
+  {
+    "Source": "hypertensive disease",
+    "Target": "syncope"
+  },
+  {
+    "Source": "hypertensive disease",
+    "Target": "vertigo"
+  },
+  {
+    "Source": "hypertensive disease",
+    "Target": "sweat"
+  },
+  {
+    "Source": "hypertensive disease",
+    "Target": "sweating increased"
+  },
+  {
+    "Source": "hypertensive disease",
+    "Target": "palpitation"
+  },
+  {
+    "Source": "hypertensive disease",
+    "Target": "nausea"
+  },
+  {
+    "Source": "hypertensive disease",
+    "Target": "angina pectoris"
+  },
+  {
+    "Source": "hypertensive disease",
+    "Target": "pressure chest"
+  },
+  {
+    "Source": "hypertension pulmonary",
+    "Target": "shortness of breath"
+  },
+  {
+    "Source": "hypertension pulmonary",
+    "Target": "Stahli's line"
+  },
+  {
+    "Source": "hypertension pulmonary",
+    "Target": "heavy legs"
+  },
+  {
+    "Source": "hypertension pulmonary",
+    "Target": "breath sounds decreased"
+  },
+  {
+    "Source": "hypertension pulmonary",
+    "Target": "neck stiffness"
+  },
+  {
+    "Source": "hypertension pulmonary",
+    "Target": "dyspnea on exertion"
+  },
+  {
+    "Source": "hypertension pulmonary",
+    "Target": "cyanosis"
+  },
+  {
+    "Source": "hypertension pulmonary",
+    "Target": "hypotension"
+  },
+  {
+    "Source": "hypertension pulmonary",
+    "Target": "left�atrial�hypertrophy"
+  },
+  {
+    "Source": "Alzheimer's disease",
+    "Target": "drool"
+  },
+  {
+    "Source": "Alzheimer's disease",
+    "Target": "agitation"
+  },
+  {
+    "Source": "Alzheimer's disease",
+    "Target": "nightmare"
+  },
+  {
+    "Source": "Alzheimer's disease",
+    "Target": "rhonchus"
+  },
+  {
+    "Source": "Alzheimer's disease",
+    "Target": "consciousness clear"
+  },
+  {
+    "Source": "Alzheimer's disease",
+    "Target": "pin-point pupils"
+  },
+  {
+    "Source": "Alzheimer's disease",
+    "Target": "bedridden"
+  },
+  {
+    "Source": "Alzheimer's disease",
+    "Target": "bedridden"
+  },
+  {
+    "Source": "Alzheimer's disease",
+    "Target": "frail"
+  },
+  {
+    "Source": "Alzheimer's disease",
+    "Target": "tremor resting"
+  },
+  {
+    "Source": "Alzheimer's disease",
+    "Target": "hyperkalemia"
+  },
+  {
+    "Source": "Alzheimer's disease",
+    "Target": "facial paresis"
+  },
+  {
+    "Source": "Alzheimer's disease",
+    "Target": "groggy"
+  },
+  {
+    "Source": "Alzheimer's disease",
+    "Target": "muscle twitch"
+  },
+  {
+    "Source": "Alzheimer's disease",
+    "Target": "wheelchair bound"
+  },
+  {
+    "Source": "Alzheimer's disease",
+    "Target": "tremor"
+  },
+  {
+    "Source": "Alzheimer's disease",
+    "Target": "cough"
+  },
+  {
+    "Source": "Alzheimer's disease",
+    "Target": "fever"
+  },
+  {
+    "Source": "tricuspid valve insufficiency",
+    "Target": "shortness of breath"
+  },
+  {
+    "Source": "tricuspid valve insufficiency",
+    "Target": "pain"
+  },
+  {
+    "Source": "tricuspid valve insufficiency",
+    "Target": "vomiting"
+  },
+  {
+    "Source": "tricuspid valve insufficiency",
+    "Target": "nausea"
+  },
+  {
+    "Source": "tricuspid valve insufficiency",
+    "Target": "bradycardia"
+  },
+  {
+    "Source": "tricuspid valve insufficiency",
+    "Target": "pain abdominal"
+  },
+  {
+    "Source": "tricuspid valve insufficiency",
+    "Target": "fever"
+  },
+  {
+    "Source": "tricuspid valve insufficiency",
+    "Target": "cicatrisation"
+  },
+  {
+    "Source": "tricuspid valve insufficiency",
+    "Target": "mediastinal shift"
+  },
+  {
+    "Source": "tricuspid valve insufficiency",
+    "Target": "impaired cognition"
+  },
+  {
+    "Source": "carcinoma prostate",
+    "Target": "hematuria"
+  },
+  {
+    "Source": "carcinoma prostate",
+    "Target": "dysesthesia"
+  },
+  {
+    "Source": "carcinoma prostate",
+    "Target": "asthenia"
+  },
+  {
+    "Source": "carcinoma prostate",
+    "Target": "polymyalgia"
+  },
+  {
+    "Source": "carcinoma prostate",
+    "Target": "passed stones"
+  },
+  {
+    "Source": "carcinoma prostate",
+    "Target": "pleuritic pain"
+  },
+  {
+    "Source": "carcinoma prostate",
+    "Target": "guaiac positive"
+  },
+  {
+    "Source": "carcinoma prostate",
+    "Target": "rale"
+  },
+  {
+    "Source": "carcinoma prostate",
+    "Target": "breath sounds decreased"
+  },
+  {
+    "Source": "carcinoma prostate",
+    "Target": "urge incontinence"
+  },
+  {
+    "Source": "carcinoma prostate",
+    "Target": "dysuria"
+  },
+  {
+    "Source": "carcinoma prostate",
+    "Target": "diarrhea"
+  },
+  {
+    "Source": "carcinoma prostate",
+    "Target": "vertigo"
+  },
+  {
+    "Source": "carcinoma prostate",
+    "Target": "qt interval prolonged"
+  },
+  {
+    "Source": "carcinoma prostate",
+    "Target": "ataxia"
+  },
+  {
+    "Source": "carcinoma prostate",
+    "Target": "paresis"
+  },
+  {
+    "Source": "carcinoma prostate",
+    "Target": "hemianopsia homonymous"
+  },
+  {
+    "Source": "carcinoma prostate",
+    "Target": "tumor cell invasion"
+  },
+  {
+    "Source": "carcinoma prostate",
+    "Target": "hemodynamically stable"
+  },
+  {
+    "Source": "carcinoma prostate",
+    "Target": "mass of body structure"
+  },
+  {
+    "Source": "carcinoma prostate",
+    "Target": "rhonchus"
+  },
+  {
+    "Source": "carcinoma prostate",
+    "Target": "orthostasis"
+  },
+  {
+    "Source": "carcinoma prostate",
+    "Target": "decreased body weight"
+  },
+  {
+    "Source": "exanthema",
+    "Target": "fever"
+  },
+  {
+    "Source": "exanthema",
+    "Target": "pruritus"
+  },
+  {
+    "Source": "exanthema",
+    "Target": "macule"
+  },
+  {
+    "Source": "exanthema",
+    "Target": "lesion"
+  },
+  {
+    "Source": "exanthema",
+    "Target": "redness"
+  },
+  {
+    "Source": "exanthema",
+    "Target": "headache"
+  },
+  {
+    "Source": "exanthema",
+    "Target": "apyrexial"
+  },
+  {
+    "Source": "exanthema",
+    "Target": "arthralgia"
+  },
+  {
+    "Source": "exanthema",
+    "Target": "swelling"
+  },
+  {
+    "Source": "exanthema",
+    "Target": "erythema"
+  },
+  {
+    "Source": "exanthema",
+    "Target": "photophobia"
+  },
+  {
+    "Source": "exanthema",
+    "Target": "chill"
+  },
+  {
+    "Source": "exanthema",
+    "Target": "scratch marks"
+  },
+  {
+    "Source": "exanthema",
+    "Target": "pain"
+  },
+  {
+    "Source": "exanthema",
+    "Target": "painful swallowing"
+  },
+  {
+    "Source": "acquired�immuno-deficiency syndrome",
+    "Target": "fever"
+  },
+  {
+    "Source": "acquired�immuno-deficiency syndrome",
+    "Target": "night sweat"
+  },
+  {
+    "Source": "acquired�immuno-deficiency syndrome",
+    "Target": "spontaneous rupture of membranes"
+  },
+  {
+    "Source": "acquired�immuno-deficiency syndrome",
+    "Target": "cough"
+  },
+  {
+    "Source": "acquired�immuno-deficiency syndrome",
+    "Target": ""
+  },
+  {
+    "Source": "acquired�immuno-deficiency syndrome",
+    "Target": "decreased body weight"
+  },
+  {
+    "Source": "acquired�immuno-deficiency syndrome",
+    "Target": "chill"
+  },
+  {
+    "Source": "acquired�immuno-deficiency syndrome",
+    "Target": "diarrhea"
+  },
+  {
+    "Source": "acquired�immuno-deficiency syndrome",
+    "Target": "pleuritic pain"
+  },
+  {
+    "Source": "acquired�immuno-deficiency syndrome",
+    "Target": "patient non compliance"
+  },
+  {
+    "Source": "acquired�immuno-deficiency syndrome",
+    "Target": "tachypnea"
+  },
+  {
+    "Source": "acquired�immuno-deficiency syndrome",
+    "Target": "productive cough"
+  },
+  {
+    "Source": "acquired�immuno-deficiency syndrome",
+    "Target": "muscle hypotonia"
+  },
+  {
+    "Source": "acquired�immuno-deficiency syndrome",
+    "Target": "hypotonic"
+  },
+  {
+    "Source": "acquired�immuno-deficiency syndrome",
+    "Target": "feeling suicidal"
+  },
+  {
+    "Source": "osteoporosis",
+    "Target": "prostatism"
+  },
+  {
+    "Source": "osteoporosis",
+    "Target": "fall"
+  },
+  {
+    "Source": "osteoporosis",
+    "Target": "hirsutism"
+  },
+  {
+    "Source": "osteoporosis",
+    "Target": "sniffle"
+  },
+  {
+    "Source": "osteoporosis",
+    "Target": "distended abdomen"
+  },
+  {
+    "Source": "osteoporosis",
+    "Target": "vertigo"
+  },
+  {
+    "Source": "osteoporosis",
+    "Target": "numbness of hand"
+  },
+  {
+    "Source": "osteoporosis",
+    "Target": "bradykinesia"
+  },
+  {
+    "Source": "osteoporosis",
+    "Target": "pain"
+  },
+  {
+    "Source": "osteoporosis",
+    "Target": "syncope"
+  },
+  {
+    "Source": "osteoporosis",
+    "Target": "out of breath"
+  },
+  {
+    "Source": "osteoporosis",
+    "Target": "apyrexial"
+  },
+  {
+    "Source": "osteoporosis",
+    "Target": "urge incontinence"
+  },
+  {
+    "Source": "osteoporosis",
+    "Target": "lightheadedness"
+  },
+  {
+    "Source": "hepatitis",
+    "Target": "ascites"
+  },
+  {
+    "Source": "hepatitis",
+    "Target": "spontaneous rupture of membranes"
+  },
+  {
+    "Source": "hepatitis",
+    "Target": "tachypnea"
+  },
+  {
+    "Source": "hepatitis",
+    "Target": "pain abdominal"
+  },
+  {
+    "Source": "hepatitis",
+    "Target": "pruritus"
+  },
+  {
+    "Source": "hepatitis",
+    "Target": "anorexia"
+  },
+  {
+    "Source": "hepatitis",
+    "Target": "transaminitis"
+  },
+  {
+    "Source": "hepatitis",
+    "Target": "projectile vomiting"
+  },
+  {
+    "Source": "hepatitis",
+    "Target": "chill"
+  },
+  {
+    "Source": "hepatitis",
+    "Target": "distress respiratory"
+  },
+  {
+    "Source": "hepatitis",
+    "Target": "fever"
+  },
+  {
+    "Source": "hepatitis",
+    "Target": "vomiting"
+  },
+  {
+    "Source": "dehydration",
+    "Target": "fever"
+  },
+  {
+    "Source": "dehydration",
+    "Target": "diarrhea"
+  },
+  {
+    "Source": "dehydration",
+    "Target": "vomiting"
+  },
+  {
+    "Source": "dehydration",
+    "Target": "hypotension"
+  },
+  {
+    "Source": "dehydration",
+    "Target": "nausea"
+  },
+  {
+    "Source": "dehydration",
+    "Target": "lightheadedness"
+  },
+  {
+    "Source": "dehydration",
+    "Target": "unwell"
+  },
+  {
+    "Source": "dehydration",
+    "Target": "mental status changes"
+  },
+  {
+    "Source": "dehydration",
+    "Target": "anorexia"
+  },
+  {
+    "Source": "dehydration",
+    "Target": "asthenia"
+  },
+  {
+    "Source": "dehydration",
+    "Target": "sensory discomfort"
+  },
+  {
+    "Source": "dehydration",
+    "Target": "syncope"
+  },
+  {
+    "Source": "dehydration",
+    "Target": "lethargy"
+  },
+  {
+    "Source": "dehydration",
+    "Target": "dizziness"
+  },
+  {
+    "Source": "dehydration",
+    "Target": "syncope"
+  },
+  {
+    "Source": "dehydration",
+    "Target": "blackout"
+  },
+  {
+    "Source": "dehydration",
+    "Target": "history of - blackout"
+  },
+  {
+    "Source": "lymphatic diseases",
+    "Target": "pain"
+  },
+  {
+    "Source": "lymphatic diseases",
+    "Target": "mass of body structure"
+  },
+  {
+    "Source": "lymphatic diseases",
+    "Target": "night sweat"
+  },
+  {
+    "Source": "lymphatic diseases",
+    "Target": "splenomegaly"
+  },
+  {
+    "Source": "lymphatic diseases",
+    "Target": "lesion"
+  },
+  {
+    "Source": "lymphatic diseases",
+    "Target": "chill"
+  },
+  {
+    "Source": "lymphatic diseases",
+    "Target": "decreased body weight"
+  },
+  {
+    "Source": "lymphatic diseases",
+    "Target": "swelling"
+  },
+  {
+    "Source": "lymphatic diseases",
+    "Target": "fever"
+  },
+  {
+    "Source": "lymphatic diseases",
+    "Target": "hyperacusis"
+  },
+  {
+    "Source": "lymphatic diseases",
+    "Target": "fremitus"
+  },
+  {
+    "Source": "lymphatic diseases",
+    "Target": "non-productive cough"
+  },
+  {
+    "Source": "lymphatic diseases",
+    "Target": "egophony"
+  },
+  {
+    "Source": "lymphatic diseases",
+    "Target": "redness"
+  },
+  {
+    "Source": "lymphatic diseases",
+    "Target": "hepatomegaly"
+  },
+  {
+    "Source": "lymphatic diseases",
+    "Target": "fatigue"
+  },
+  {
+    "Source": "sickle cell anemia",
+    "Target": "breakthrough pain"
+  },
+  {
+    "Source": "sickle cell anemia",
+    "Target": "pain back"
+  },
+  {
+    "Source": "sickle cell anemia",
+    "Target": "pain"
+  },
+  {
+    "Source": "sickle cell anemia",
+    "Target": "shortness of breath"
+  },
+  {
+    "Source": "sickle cell anemia",
+    "Target": "snuffle"
+  },
+  {
+    "Source": "sickle cell anemia",
+    "Target": "pain chest"
+  },
+  {
+    "Source": "sickle cell anemia",
+    "Target": "pain abdominal"
+  },
+  {
+    "Source": "sickle cell anemia",
+    "Target": "hepatosplenomegaly"
+  },
+  {
+    "Source": "sickle cell anemia",
+    "Target": "green sputum"
+  },
+  {
+    "Source": "sickle cell anemia",
+    "Target": "apyrexial"
+  },
+  {
+    "Source": "sickle cell anemia",
+    "Target": "headache"
+  },
+  {
+    "Source": "pancytopenia",
+    "Target": "hypoproteinemia"
+  },
+  {
+    "Source": "pancytopenia",
+    "Target": "fatigue"
+  },
+  {
+    "Source": "pancytopenia",
+    "Target": "haemorrhage"
+  },
+  {
+    "Source": "pancytopenia",
+    "Target": "fatigability"
+  },
+  {
+    "Source": "pancytopenia",
+    "Target": "cushingoid facies"
+  },
+  {
+    "Source": "pancytopenia",
+    "Target": "cushingoid�habitus"
+  },
+  {
+    "Source": "pancytopenia",
+    "Target": "stool color yellow"
+  },
+  {
+    "Source": "pancytopenia",
+    "Target": "colic abdominal"
+  },
+  {
+    "Source": "coronary heart disease",
+    "Target": "pain chest"
+  },
+  {
+    "Source": "coronary heart disease",
+    "Target": "angina pectoris"
+  },
+  {
+    "Source": "coronary heart disease",
+    "Target": "shortness of breath"
+  },
+  {
+    "Source": "coronary heart disease",
+    "Target": "hypokinesia"
+  },
+  {
+    "Source": "coronary heart disease",
+    "Target": "sweat"
+  },
+  {
+    "Source": "coronary heart disease",
+    "Target": "sweating increased"
+  },
+  {
+    "Source": "coronary heart disease",
+    "Target": "pressure chest"
+  },
+  {
+    "Source": "coronary heart disease",
+    "Target": "dyspnea on exertion"
+  },
+  {
+    "Source": "coronary heart disease",
+    "Target": "orthopnea"
+  },
+  {
+    "Source": "coronary heart disease",
+    "Target": "chest tightness"
+  },
+  {
+    "Source": "thrombus",
+    "Target": "hypokinesia"
+  },
+  {
+    "Source": "thrombus",
+    "Target": "anorexia"
+  },
+  {
+    "Source": "thrombus",
+    "Target": "hypertonicity"
+  },
+  {
+    "Source": "thrombus",
+    "Target": "shortness of breath"
+  },
+  {
+    "Source": "thrombus",
+    "Target": "hypoalbuminemia"
+  },
+  {
+    "Source": "thrombus",
+    "Target": "pruritus"
+  },
+  {
+    "Source": "thrombus",
+    "Target": "sore to touch"
+  },
+  {
+    "Source": "thrombus",
+    "Target": "hemodynamically stable"
+  },
+  {
+    "Source": "thrombus",
+    "Target": "facial paresis"
+  },
+  {
+    "Source": "thrombus",
+    "Target": "vomiting"
+  },
+  {
+    "Source": "thrombus",
+    "Target": "stool color yellow"
+  },
+  {
+    "Source": "colitis",
+    "Target": "fever"
+  },
+  {
+    "Source": "colitis",
+    "Target": "thicken"
+  },
+  {
+    "Source": "colitis",
+    "Target": "green sputum"
+  },
+  {
+    "Source": "colitis",
+    "Target": "vomiting"
+  },
+  {
+    "Source": "colitis",
+    "Target": "nausea and vomiting"
+  },
+  {
+    "Source": "colitis",
+    "Target": "awakening early"
+  },
+  {
+    "Source": "colitis",
+    "Target": "pain"
+  },
+  {
+    "Source": "colitis",
+    "Target": "nausea"
+  },
+  {
+    "Source": "colitis",
+    "Target": "chill"
+  },
+  {
+    "Source": "colitis",
+    "Target": "tenesmus"
+  },
+  {
+    "Source": "colitis",
+    "Target": "urge incontinence"
+  },
+  {
+    "Source": "colitis",
+    "Target": "pain abdominal"
+  },
+  {
+    "Source": "colitis",
+    "Target": "hemodynamically stable"
+  },
+  {
+    "Source": "schizophrenia",
+    "Target": "hallucinations auditory"
+  },
+  {
+    "Source": "schizophrenia",
+    "Target": "hypersomnolence"
+  },
+  {
+    "Source": "schizophrenia",
+    "Target": "irritable mood"
+  },
+  {
+    "Source": "schizophrenia",
+    "Target": "verbal auditory hallucinations"
+  },
+  {
+    "Source": "schizophrenia",
+    "Target": "patient non compliance"
+  },
+  {
+    "Source": "schizophrenia",
+    "Target": "agitation"
+  },
+  {
+    "Source": "schizophrenia",
+    "Target": "suicidal"
+  },
+  {
+    "Source": "schizophrenia",
+    "Target": "worry"
+  },
+  {
+    "Source": "schizophrenia",
+    "Target": "hallucinations visual"
+  },
+  {
+    "Source": "schizophrenia",
+    "Target": "underweight"
+  },
+  {
+    "Source": "schizophrenia",
+    "Target": "underweight"
+  },
+  {
+    "Source": "schizophrenia",
+    "Target": "homelessness"
+  },
+  {
+    "Source": "psychotic disorder",
+    "Target": "suicidal"
+  },
+  {
+    "Source": "psychotic disorder",
+    "Target": "hallucinations auditory"
+  },
+  {
+    "Source": "psychotic disorder",
+    "Target": "feeling suicidal"
+  },
+  {
+    "Source": "psychotic disorder",
+    "Target": "hallucinations visual"
+  },
+  {
+    "Source": "psychotic disorder",
+    "Target": "motor retardation"
+  },
+  {
+    "Source": "psychotic disorder",
+    "Target": "blackout"
+  },
+  {
+    "Source": "psychotic disorder",
+    "Target": "verbal auditory hallucinations"
+  },
+  {
+    "Source": "psychotic disorder",
+    "Target": "feeling hopeless"
+  },
+  {
+    "Source": "psychotic disorder",
+    "Target": "irritable mood"
+  },
+  {
+    "Source": "psychotic disorder",
+    "Target": "agitation"
+  },
+  {
+    "Source": "psychotic disorder",
+    "Target": "tremor"
+  },
+  {
+    "Source": "psychotic disorder",
+    "Target": "catatonia"
+  },
+  {
+    "Source": "psychotic disorder",
+    "Target": "weepiness"
+  },
+  {
+    "Source": "psychotic disorder",
+    "Target": "homelessness"
+  },
+  {
+    "Source": "psychotic disorder",
+    "Target": "sleeplessness"
+  },
+  {
+    "Source": "psychotic disorder",
+    "Target": "withdraw"
+  },
+  {
+    "Source": "psychotic disorder",
+    "Target": "energy increased"
+  },
+  {
+    "Source": "psychotic disorder",
+    "Target": "intoxication"
+  },
+  {
+    "Source": "psychotic disorder",
+    "Target": "worry"
+  },
+  {
+    "Source": "psychotic disorder",
+    "Target": "behavior hyperactive"
+  },
+  {
+    "Source": "psychotic disorder",
+    "Target": "patient non compliance"
+  },
+  {
+    "Source": "psychotic disorder",
+    "Target": "mood depressed"
+  },
+  {
+    "Source": "psychotic disorder",
+    "Target": "terrify"
+  },
+  {
+    "Source": "psychotic disorder",
+    "Target": "nightmare"
+  },
+  {
+    "Source": "psychotic disorder",
+    "Target": "consciousness clear"
+  },
+  {
+    "Source": "overload fluid",
+    "Target": "rale"
+  },
+  {
+    "Source": "overload fluid",
+    "Target": "jugular venous distention"
+  },
+  {
+    "Source": "overload fluid",
+    "Target": "hyperkalemia"
+  },
+  {
+    "Source": "overload fluid",
+    "Target": "orthopnea"
+  },
+  {
+    "Source": "overload fluid",
+    "Target": "shortness of breath"
+  },
+  {
+    "Source": "overload fluid",
+    "Target": "drowsiness"
+  },
+  {
+    "Source": "overload fluid",
+    "Target": "sleepy"
+  },
+  {
+    "Source": "overload fluid",
+    "Target": "weight gain"
+  },
+  {
+    "Source": "overload fluid",
+    "Target": "hypokalemia"
+  },
+  {
+    "Source": "overload fluid",
+    "Target": "hypotension"
+  },
+  {
+    "Source": "overload fluid",
+    "Target": "swelling"
+  },
+  {
+    "Source": "overload fluid",
+    "Target": "distended abdomen"
+  },
+  {
+    "Source": "paranoia",
+    "Target": "hallucinations auditory"
+  },
+  {
+    "Source": "paranoia",
+    "Target": "hallucinations visual"
+  },
+  {
+    "Source": "paranoia",
+    "Target": "agitation"
+  },
+  {
+    "Source": "paranoia",
+    "Target": "irritable mood"
+  },
+  {
+    "Source": "paranoia",
+    "Target": "verbal auditory hallucinations"
+  },
+  {
+    "Source": "paranoia",
+    "Target": "feeling suicidal"
+  },
+  {
+    "Source": "paranoia",
+    "Target": "suicidal"
+  },
+  {
+    "Source": "paranoia",
+    "Target": "terrify"
+  },
+  {
+    "Source": "paranoia",
+    "Target": "neologism"
+  },
+  {
+    "Source": "paranoia",
+    "Target": "homelessness"
+  },
+  {
+    "Source": "paranoia",
+    "Target": "energy increased"
+  },
+  {
+    "Source": "paranoia",
+    "Target": "mood depressed"
+  },
+  {
+    "Source": "paranoia",
+    "Target": "decompensation"
+  },
+  {
+    "Source": "paranoia",
+    "Target": "cicatrisation"
+  },
+  {
+    "Source": "paranoia",
+    "Target": "scar tissue"
+  },
+  {
+    "Source": "paranoia",
+    "Target": "blackout"
+  },
+  {
+    "Source": "paranoia",
+    "Target": "loose associations"
+  },
+  {
+    "Source": "encephalopathy",
+    "Target": "uncoordination"
+  },
+  {
+    "Source": "encephalopathy",
+    "Target": "asterixis"
+  },
+  {
+    "Source": "encephalopathy",
+    "Target": "haemorrhage"
+  },
+  {
+    "Source": "encephalopathy",
+    "Target": "drowsiness"
+  },
+  {
+    "Source": "encephalopathy",
+    "Target": "sleepy"
+  },
+  {
+    "Source": "encephalopathy",
+    "Target": "absences finding"
+  },
+  {
+    "Source": "encephalopathy",
+    "Target": "posturing"
+  },
+  {
+    "Source": "encephalopathy",
+    "Target": "aura"
+  },
+  {
+    "Source": "encephalopathy",
+    "Target": "tonic seizures"
+  },
+  {
+    "Source": "encephalopathy",
+    "Target": "debilitation"
+  },
+  {
+    "Source": "encephalopathy",
+    "Target": "consciousness clear"
+  },
+  {
+    "Source": "encephalopathy",
+    "Target": "unresponsiveness"
+  },
+  {
+    "Source": "encephalopathy",
+    "Target": "thicken"
+  },
+  {
+    "Source": "encephalopathy",
+    "Target": "hypokinesia"
+  },
+  {
+    "Source": "deep vein thrombosis",
+    "Target": "swelling"
+  },
+  {
+    "Source": "deep vein thrombosis",
+    "Target": "pain"
+  },
+  {
+    "Source": "deep vein thrombosis",
+    "Target": "ecchymosis"
+  },
+  {
+    "Source": "deep vein thrombosis",
+    "Target": "shortness of breath"
+  },
+  {
+    "Source": "deep vein thrombosis",
+    "Target": "pain in lower limb"
+  },
+  {
+    "Source": "deep vein thrombosis",
+    "Target": "cardiomegaly"
+  },
+  {
+    "Source": "deep vein thrombosis",
+    "Target": "rale"
+  },
+  {
+    "Source": "deep vein thrombosis",
+    "Target": "erythema"
+  },
+  {
+    "Source": "deep vein thrombosis",
+    "Target": "hypotension"
+  },
+  {
+    "Source": "deep vein thrombosis",
+    "Target": "clonus"
+  },
+  {
+    "Source": "deep vein thrombosis",
+    "Target": "non-productive cough"
+  },
+  {
+    "Source": "deep vein thrombosis",
+    "Target": "redness"
+  },
+  {
+    "Source": "personality disorder",
+    "Target": "nightmare"
+  },
+  {
+    "Source": "personality disorder",
+    "Target": "feeling hopeless"
+  },
+  {
+    "Source": "personality disorder",
+    "Target": "transsexual"
+  },
+  {
+    "Source": "personality disorder",
+    "Target": "hallucinations auditory"
+  },
+  {
+    "Source": "personality disorder",
+    "Target": "irritable mood"
+  },
+  {
+    "Source": "personality disorder",
+    "Target": "sleeplessness"
+  },
+  {
+    "Source": "personality disorder",
+    "Target": "agitation"
+  },
+  {
+    "Source": "personality disorder",
+    "Target": "weepiness"
+  },
+  {
+    "Source": "personality disorder",
+    "Target": "mood depressed"
+  },
+  {
+    "Source": "personality disorder",
+    "Target": "scratch marks"
+  },
+  {
+    "Source": "personality disorder",
+    "Target": "nausea and vomiting"
+  },
+  {
+    "Source": "personality disorder",
+    "Target": "extreme exhaustion"
+  },
+  {
+    "Source": "personality disorder",
+    "Target": "side pain"
+  },
+  {
+    "Source": "personality disorder",
+    "Target": "worry"
+  },
+  {
+    "Source": "personality disorder",
+    "Target": "enuresis"
+  },
+  {
+    "Source": "personality disorder",
+    "Target": "homelessness"
+  },
+  {
+    "Source": "personality disorder",
+    "Target": "nervousness"
+  },
+  {
+    "Source": "personality disorder",
+    "Target": "ascites"
+  },
+  {
+    "Source": "personality disorder",
+    "Target": "pruritus"
+  },
+  {
+    "Source": "insufficiency renal",
+    "Target": "shortness of breath"
+  },
+  {
+    "Source": "insufficiency renal",
+    "Target": "hyperkalemia"
+  },
+  {
+    "Source": "insufficiency renal",
+    "Target": "orthopnea"
+  },
+  {
+    "Source": "insufficiency renal",
+    "Target": "rale"
+  },
+  {
+    "Source": "insufficiency renal",
+    "Target": "urgency of�micturition"
+  },
+  {
+    "Source": "insufficiency renal",
+    "Target": "ascites"
+  },
+  {
+    "Source": "insufficiency renal",
+    "Target": "guaiac positive"
+  },
+  {
+    "Source": "insufficiency renal",
+    "Target": "asthenia"
+  },
+  {
+    "Source": "insufficiency renal",
+    "Target": "apyrexial"
+  },
+  {
+    "Source": "insufficiency renal",
+    "Target": "mental status changes"
+  },
+  {
+    "Source": "insufficiency renal",
+    "Target": "dyspnea"
+  },
+  {
+    "Source": "insufficiency renal",
+    "Target": "difficulty"
+  },
+  {
+    "Source": "insufficiency renal",
+    "Target": "diarrhea"
+  },
+  {
+    "Source": "insufficiency renal",
+    "Target": "hypotension"
+  },
+  {
+    "Source": "insufficiency renal",
+    "Target": "breath sounds decreased"
+  },
+  {
+    "Source": "insufficiency renal",
+    "Target": "swelling"
+  },
+  {
+    "Source": "insufficiency renal",
+    "Target": "hypokinesia"
+  },
+  {
+    "Source": "degenerative�polyarthritis",
+    "Target": "pain"
+  },
+  {
+    "Source": "degenerative�polyarthritis",
+    "Target": "food intolerance"
+  },
+  {
+    "Source": "degenerative�polyarthritis",
+    "Target": "numbness of hand"
+  },
+  {
+    "Source": "degenerative�polyarthritis",
+    "Target": "general discomfort"
+  },
+  {
+    "Source": "degenerative�polyarthritis",
+    "Target": "drowsiness"
+  },
+  {
+    "Source": "degenerative�polyarthritis",
+    "Target": "asthenia"
+  },
+  {
+    "Source": "degenerative�polyarthritis",
+    "Target": "nonsmoker"
+  },
+  {
+    "Source": "degenerative�polyarthritis",
+    "Target": "non-productive cough"
+  },
+  {
+    "Source": "degenerative�polyarthritis",
+    "Target": "polydypsia"
+  },
+  {
+    "Source": "degenerative�polyarthritis",
+    "Target": "stiffness"
+  },
+  {
+    "Source": "degenerative�polyarthritis",
+    "Target": "unsteady gait"
+  },
+  {
+    "Source": "osteomyelitis",
+    "Target": "pain"
+  },
+  {
+    "Source": "osteomyelitis",
+    "Target": "redness"
+  },
+  {
+    "Source": "osteomyelitis",
+    "Target": "prostate tender"
+  },
+  {
+    "Source": "osteomyelitis",
+    "Target": "fever"
+  },
+  {
+    "Source": "osteomyelitis",
+    "Target": "difficulty passing urine"
+  },
+  {
+    "Source": "osteomyelitis",
+    "Target": "sore to touch"
+  },
+  {
+    "Source": "osteomyelitis",
+    "Target": "swelling"
+  },
+  {
+    "Source": "osteomyelitis",
+    "Target": "apyrexial"
+  },
+  {
+    "Source": "osteomyelitis",
+    "Target": "erythema"
+  },
+  {
+    "Source": "osteomyelitis",
+    "Target": "abscess bacterial"
+  },
+  {
+    "Source": "osteomyelitis",
+    "Target": "pain foot"
+  },
+  {
+    "Source": "osteomyelitis",
+    "Target": "urinary hesitation"
+  },
+  {
+    "Source": "melanoma",
+    "Target": "mass of body structure"
+  },
+  {
+    "Source": "melanoma",
+    "Target": "paraparesis"
+  },
+  {
+    "Source": "melanoma",
+    "Target": "fever"
+  },
+  {
+    "Source": "melanoma",
+    "Target": "gravida"
+  },
+  {
+    "Source": "melanoma",
+    "Target": "pain"
+  },
+  {
+    "Source": "melanoma",
+    "Target": "pruritus"
+  },
+  {
+    "Source": "melanoma",
+    "Target": "mass in breast"
+  },
+  {
+    "Source": "melanoma",
+    "Target": "vomiting"
+  },
+  {
+    "Source": "melanoma",
+    "Target": "diarrhea"
+  },
+  {
+    "Source": "respiratory failure",
+    "Target": "hemiplegia"
+  },
+  {
+    "Source": "respiratory failure",
+    "Target": "snore"
+  },
+  {
+    "Source": "respiratory failure",
+    "Target": "unresponsiveness"
+  },
+  {
+    "Source": "respiratory failure",
+    "Target": "productive cough"
+  },
+  {
+    "Source": "respiratory failure",
+    "Target": "dyspnea"
+  },
+  {
+    "Source": "respiratory failure",
+    "Target": "tachypnea"
+  },
+  {
+    "Source": "respiratory failure",
+    "Target": "hyperkalemia"
+  },
+  {
+    "Source": "respiratory failure",
+    "Target": "hypokinesia"
+  },
+  {
+    "Source": "respiratory failure",
+    "Target": "sinus rhythm"
+  },
+  {
+    "Source": "respiratory failure",
+    "Target": "general unsteadiness"
+  },
+  {
+    "Source": "respiratory failure",
+    "Target": "bruit"
+  },
+  {
+    "Source": "respiratory failure",
+    "Target": "consciousness clear"
+  },
+  {
+    "Source": "respiratory failure",
+    "Target": "shortness of breath"
+  },
+  {
+    "Source": "respiratory failure",
+    "Target": "lesion"
+  },
+  {
+    "Source": "respiratory failure",
+    "Target": "redness"
+  },
+  {
+    "Source": "gastritis",
+    "Target": "heme positive"
+  },
+  {
+    "Source": "gastritis",
+    "Target": "pain abdominal"
+  },
+  {
+    "Source": "gastritis",
+    "Target": "vomiting"
+  },
+  {
+    "Source": "gastritis",
+    "Target": "disequilibrium"
+  },
+  {
+    "Source": "gastritis",
+    "Target": "nausea"
+  },
+  {
+    "Source": "gastritis",
+    "Target": "intoxication"
+  },
+  {
+    "Source": "gastritis",
+    "Target": "haemorrhage"
+  },
+  {
+    "Source": "gastritis",
+    "Target": "guaiac positive"
+  },
+  {
+    "Source": "gastritis",
+    "Target": "pain"
+  },
+  {
+    "Source": "gastritis",
+    "Target": "decreased body weight"
+  },
+  {
+    "Source": "gastritis",
+    "Target": "sore to touch"
+  },
+  {
+    "Source": "gastritis",
+    "Target": "dizziness"
+  },
+  {
+    "Source": "hemorrhoids",
+    "Target": "haemorrhage"
+  },
+  {
+    "Source": "hemorrhoids",
+    "Target": "bowel sounds decreased"
+  },
+  {
+    "Source": "hemorrhoids",
+    "Target": "decreased stool caliber"
+  },
+  {
+    "Source": "hemorrhoids",
+    "Target": "nausea and vomiting"
+  },
+  {
+    "Source": "hemorrhoids",
+    "Target": "hunger"
+  },
+  {
+    "Source": "hemorrhoids",
+    "Target": "diarrhea"
+  },
+  {
+    "Source": "hemorrhoids",
+    "Target": "dizziness"
+  },
+  {
+    "Source": "hemorrhoids",
+    "Target": "hyponatremia"
+  },
+  {
+    "Source": "hemorrhoids",
+    "Target": "clonus"
+  },
+  {
+    "Source": "hemorrhoids",
+    "Target": "pain"
+  },
+  {
+    "Source": "hemorrhoids",
+    "Target": "achalasia"
+  },
+  {
+    "Source": "hemorrhoids",
+    "Target": "burning sensation"
+  },
+  {
+    "Source": "hemorrhoids",
+    "Target": "guaiac positive"
+  },
+  {
+    "Source": "hemorrhoids",
+    "Target": "numbness of hand"
+  },
+  {
+    "Source": "hemorrhoids",
+    "Target": "wheezing"
+  },
+  {
+    "Source": "hemorrhoids",
+    "Target": "cough"
+  },
+  {
+    "Source": "delirium",
+    "Target": "unsteady gait"
+  },
+  {
+    "Source": "delirium",
+    "Target": "withdraw"
+  },
+  {
+    "Source": "delirium",
+    "Target": "hyponatremia"
+  },
+  {
+    "Source": "delirium",
+    "Target": "verbally abusive behavior"
+  },
+  {
+    "Source": "delirium",
+    "Target": "feeling suicidal"
+  },
+  {
+    "Source": "delirium",
+    "Target": "unresponsiveness"
+  },
+  {
+    "Source": "delirium",
+    "Target": "worry"
+  },
+  {
+    "Source": "delirium",
+    "Target": "drowsiness"
+  },
+  {
+    "Source": "delirium",
+    "Target": "sleepy"
+  },
+  {
+    "Source": "delirium",
+    "Target": "hallucinations auditory"
+  },
+  {
+    "Source": "delirium",
+    "Target": "suicidal"
+  },
+  {
+    "Source": "delirium",
+    "Target": "fever"
+  },
+  {
+    "Source": "delirium",
+    "Target": "diarrhea"
+  },
+  {
+    "Source": "candidiasis",
+    "Target": "diarrhea"
+  },
+  {
+    "Source": "candidiasis",
+    "Target": "throat sore"
+  },
+  {
+    "Source": "candidiasis",
+    "Target": "decreased body weight"
+  },
+  {
+    "Source": "candidiasis",
+    "Target": "chill"
+  },
+  {
+    "Source": "candidiasis",
+    "Target": "headache"
+  },
+  {
+    "Source": "candidiasis",
+    "Target": "abdominal tenderness"
+  },
+  {
+    "Source": "candidiasis",
+    "Target": "patient non compliance"
+  },
+  {
+    "Source": "candidiasis",
+    "Target": "photophobia"
+  },
+  {
+    "Source": "candidiasis",
+    "Target": "night sweat"
+  },
+  {
+    "Source": "candidiasis",
+    "Target": "painful swallowing"
+  },
+  {
+    "Source": "candidiasis",
+    "Target": "poor dentition"
+  },
+  {
+    "Source": "candidiasis",
+    "Target": "transaminitis"
+  },
+  {
+    "Source": "candidiasis",
+    "Target": "non-productive cough"
+  },
+  {
+    "Source": "candidiasis",
+    "Target": "adverse reaction"
+  },
+  {
+    "Source": "candidiasis",
+    "Target": "adverse effect"
+  },
+  {
+    "Source": "candidiasis",
+    "Target": "abdominal bloating"
+  },
+  {
+    "Source": "infection",
+    "Target": "fever"
+  },
+  {
+    "Source": "infection",
+    "Target": "erythema"
+  },
+  {
+    "Source": "infection",
+    "Target": "decreased translucency"
+  },
+  {
+    "Source": "infection",
+    "Target": "hepatosplenomegaly"
+  },
+  {
+    "Source": "infection",
+    "Target": "chill"
+  },
+  {
+    "Source": "infection",
+    "Target": "pruritus"
+  },
+  {
+    "Source": "infection",
+    "Target": "diarrhea"
+  },
+  {
+    "Source": "infection",
+    "Target": "abscess bacterial"
+  },
+  {
+    "Source": "infection",
+    "Target": "swelling"
+  },
+  {
+    "Source": "infection",
+    "Target": "pain"
+  },
+  {
+    "Source": "infection",
+    "Target": "apyrexial"
+  },
+  {
+    "Source": "infection",
+    "Target": "cough"
+  },
+  {
+    "Source": "failure kidney",
+    "Target": "orthopnea"
+  },
+  {
+    "Source": "failure kidney",
+    "Target": "oliguria"
+  },
+  {
+    "Source": "failure kidney",
+    "Target": "slowing of urinary stream"
+  },
+  {
+    "Source": "failure kidney",
+    "Target": "extreme exhaustion"
+  },
+  {
+    "Source": "failure kidney",
+    "Target": "unresponsiveness"
+  },
+  {
+    "Source": "failure kidney",
+    "Target": "hypotension"
+  },
+  {
+    "Source": "failure kidney",
+    "Target": "enuresis"
+  },
+  {
+    "Source": "failure kidney",
+    "Target": "shortness of breath"
+  },
+  {
+    "Source": "failure kidney",
+    "Target": "haemorrhage"
+  },
+  {
+    "Source": "failure kidney",
+    "Target": "prostatism"
+  },
+  {
+    "Source": "failure kidney",
+    "Target": "no status change"
+  },
+  {
+    "Source": "failure kidney",
+    "Target": "bedridden"
+  },
+  {
+    "Source": "failure kidney",
+    "Target": "bedridden"
+  },
+  {
+    "Source": "failure kidney",
+    "Target": "fatigue"
+  },
+  {
+    "Source": "failure heart",
+    "Target": "orthopnea"
+  },
+  {
+    "Source": "failure heart",
+    "Target": "fatigue"
+  },
+  {
+    "Source": "failure heart",
+    "Target": "dyspnea on exertion"
+  },
+  {
+    "Source": "failure heart",
+    "Target": "dyspnea"
+  },
+  {
+    "Source": "failure heart",
+    "Target": "shortness of breath"
+  },
+  {
+    "Source": "failure heart",
+    "Target": "pansystolic murmur"
+  },
+  {
+    "Source": "failure heart",
+    "Target": "jugular venous distention"
+  },
+  {
+    "Source": "failure heart",
+    "Target": "systolic ejection murmur"
+  },
+  {
+    "Source": "failure heart",
+    "Target": "hypotension"
+  },
+  {
+    "Source": "failure heart",
+    "Target": "angina pectoris"
+  },
+  {
+    "Source": "failure heart",
+    "Target": "hypokinesia"
+  },
+  {
+    "Source": "primary carcinoma of the liver cells",
+    "Target": "mass of body structure"
+  },
+  {
+    "Source": "primary carcinoma of the liver cells",
+    "Target": "splenomegaly"
+  },
+  {
+    "Source": "primary carcinoma of the liver cells",
+    "Target": "lesion"
+  },
+  {
+    "Source": "primary carcinoma of the liver cells",
+    "Target": "paresis"
+  },
+  {
+    "Source": "primary carcinoma of the liver cells",
+    "Target": "tumor cell invasion"
+  },
+  {
+    "Source": "primary carcinoma of the liver cells",
+    "Target": "room spinning"
+  },
+  {
+    "Source": "primary carcinoma of the liver cells",
+    "Target": "haemorrhage"
+  },
+  {
+    "Source": "primary carcinoma of the liver cells",
+    "Target": "thicken"
+  },
+  {
+    "Source": "primary carcinoma of the liver cells",
+    "Target": "indifferent mood"
+  },
+  {
+    "Source": "primary carcinoma of the liver cells",
+    "Target": "cachexia"
+  },
+  {
+    "Source": "primary carcinoma of the liver cells",
+    "Target": ""
+  },
+  {
+    "Source": "hypothermia",
+    "Target": ""
+  },
+  {
+    "Source": "natural",
+    "Target": ""
+  },
+  {
+    "Source": "primary carcinoma of the liver cells",
+    "Target": "pain abdominal"
+  },
+  {
+    "Source": "primary carcinoma of the liver cells",
+    "Target": "hepatomegaly"
+  },
+  {
+    "Source": "primary carcinoma of the liver cells",
+    "Target": "hematocrit decreased"
+  },
+  {
+    "Source": "primary carcinoma of the liver cells",
+    "Target": "stupor"
+  },
+  {
+    "Source": "primary carcinoma of the liver cells",
+    "Target": "decreased body weight"
+  },
+  {
+    "Source": "primary carcinoma of the liver cells",
+    "Target": "shortness of breath"
+  },
+  {
+    "Source": "primary carcinoma of the liver cells",
+    "Target": "cough"
+  },
+  {
+    "Source": "kidney failure acute",
+    "Target": "hyperkalemia"
+  },
+  {
+    "Source": "kidney failure acute",
+    "Target": "hypotension"
+  },
+  {
+    "Source": "kidney failure acute",
+    "Target": "hypocalcemia result"
+  },
+  {
+    "Source": "kidney failure acute",
+    "Target": "oliguria"
+  },
+  {
+    "Source": "kidney failure acute",
+    "Target": "hemodynamically stable"
+  },
+  {
+    "Source": "kidney failure acute",
+    "Target": "asthenia"
+  },
+  {
+    "Source": "kidney failure acute",
+    "Target": ""
+  },
+  {
+    "Source": "hypothermia",
+    "Target": ""
+  },
+  {
+    "Source": "natural",
+    "Target": ""
+  },
+  {
+    "Source": "kidney failure acute",
+    "Target": "diarrhea"
+  },
+  {
+    "Source": "kidney failure acute",
+    "Target": "haemorrhage"
+  },
+  {
+    "Source": "kidney failure acute",
+    "Target": "unresponsiveness"
+  },
+  {
+    "Source": "ischemia",
+    "Target": "drowsiness"
+  },
+  {
+    "Source": "ischemia",
+    "Target": "sleepy"
+  },
+  {
+    "Source": "ischemia",
+    "Target": "pain chest"
+  },
+  {
+    "Source": "ischemia",
+    "Target": "angina pectoris"
+  },
+  {
+    "Source": "ischemia",
+    "Target": "pressure chest"
+  },
+  {
+    "Source": "ischemia",
+    "Target": "chest discomfort"
+  },
+  {
+    "Source": "ischemia",
+    "Target": "shortness of breath"
+  },
+  {
+    "Source": "ischemia",
+    "Target": "dyspnea"
+  },
+  {
+    "Source": "ischemia",
+    "Target": "sinus rhythm"
+  },
+  {
+    "Source": "ischemia",
+    "Target": "bradycardia"
+  },
+  {
+    "Source": "ischemia",
+    "Target": "sweat"
+  },
+  {
+    "Source": "ischemia",
+    "Target": "sweating increased"
+  },
+  {
+    "Source": "ischemia",
+    "Target": "rale"
+  },
+  {
+    "Source": "ischemia",
+    "Target": "asymptomatic"
+  },
+  {
+    "Source": "ischemia",
+    "Target": "anorexia"
+  },
+  {
+    "Source": "failure heart congestive",
+    "Target": "shortness of breath"
+  },
+  {
+    "Source": "failure heart congestive",
+    "Target": "orthopnea"
+  },
+  {
+    "Source": "failure heart congestive",
+    "Target": "jugular venous distention"
+  },
+  {
+    "Source": "failure heart congestive",
+    "Target": "rale"
+  },
+  {
+    "Source": "failure heart congestive",
+    "Target": "dyspnea"
+  },
+  {
+    "Source": "failure heart congestive",
+    "Target": "cough"
+  },
+  {
+    "Source": "failure heart congestive",
+    "Target": "wheezing"
+  },
+  {
+    "Source": "hypercholesterolemia",
+    "Target": "pain"
+  },
+  {
+    "Source": "hypercholesterolemia",
+    "Target": "pain chest"
+  },
+  {
+    "Source": "hypercholesterolemia",
+    "Target": "sweat"
+  },
+  {
+    "Source": "hypercholesterolemia",
+    "Target": "sweating increased"
+  },
+  {
+    "Source": "hypercholesterolemia",
+    "Target": "nonsmoker"
+  },
+  {
+    "Source": "hypercholesterolemia",
+    "Target": "pressure chest"
+  },
+  {
+    "Source": "hypercholesterolemia",
+    "Target": "syncope"
+  },
+  {
+    "Source": "hypercholesterolemia",
+    "Target": "numbness"
+  },
+  {
+    "Source": "hypercholesterolemia",
+    "Target": "chest discomfort"
+  },
+  {
+    "Source": "hypercholesterolemia",
+    "Target": "shortness of breath"
+  },
+  {
+    "Source": "hypercholesterolemia",
+    "Target": "st segment depression"
+  },
+  {
+    "Source": "hypercholesterolemia",
+    "Target": "worry"
+  },
+  {
+    "Source": "hypercholesterolemia",
+    "Target": "t wave inverted"
+  },
+  {
+    "Source": "hypercholesterolemia",
+    "Target": "bradycardia"
+  },
+  {
+    "Source": "hypercholesterolemia",
+    "Target": "dyspnea"
+  },
+  {
+    "Source": "sepsis (invertebrate)",
+    "Target": "fever"
+  },
+  {
+    "Source": "sepsis (invertebrate)",
+    "Target": "distress respiratory"
+  },
+  {
+    "Source": "sepsis (invertebrate)",
+    "Target": "hypotension"
+  },
+  {
+    "Source": "sepsis (invertebrate)",
+    "Target": "tachypnea"
+  },
+  {
+    "Source": "sepsis (invertebrate)",
+    "Target": "chill"
+  },
+  {
+    "Source": "sepsis (invertebrate)",
+    "Target": "lethargy"
+  },
+  {
+    "Source": "sepsis (invertebrate)",
+    "Target": "bradycardia"
+  },
+  {
+    "Source": "sepsis (invertebrate)",
+    "Target": "breech presentation"
+  },
+  {
+    "Source": "sepsis (invertebrate)",
+    "Target": "cyanosis"
+  },
+  {
+    "Source": "sepsis (invertebrate)",
+    "Target": "spontaneous rupture of membranes"
+  },
+  {
+    "Source": "sepsis (invertebrate)",
+    "Target": "haemorrhage"
+  },
+  {
+    "Source": "sepsis (invertebrate)",
+    "Target": "unresponsiveness"
+  },
+  {
+    "Source": "sepsis (invertebrate)",
+    "Target": "rale"
+  },
+  {
+    "Source": "sepsis (invertebrate)",
+    "Target": "apyrexial"
+  },
+  {
+    "Source": "carcinoma of lung",
+    "Target": "lesion"
+  },
+  {
+    "Source": "carcinoma of lung",
+    "Target": "cough"
+  },
+  {
+    "Source": "carcinoma of lung",
+    "Target": "lung nodule"
+  },
+  {
+    "Source": "carcinoma of lung",
+    "Target": "shortness of breath"
+  },
+  {
+    "Source": "carcinoma of lung",
+    "Target": "haemoptysis"
+  },
+  {
+    "Source": "carcinoma of lung",
+    "Target": "debilitation"
+  },
+  {
+    "Source": "carcinoma of lung",
+    "Target": "gurgle"
+  },
+  {
+    "Source": "carcinoma of lung",
+    "Target": "ache"
+  },
+  {
+    "Source": "carcinoma of lung",
+    "Target": "rale"
+  },
+  {
+    "Source": "carcinoma of lung",
+    "Target": "night sweat"
+  },
+  {
+    "Source": "carcinoma of lung",
+    "Target": "decreased translucency"
+  },
+  {
+    "Source": "carcinoma of lung",
+    "Target": "asthenia"
+  },
+  {
+    "Source": "carcinoma of lung",
+    "Target": "metastatic lesion"
+  },
+  {
+    "Source": "carcinoma of lung",
+    "Target": "agitation"
+  },
+  {
+    "Source": "carcinoma of lung",
+    "Target": "irritable mood"
+  },
+  {
+    "Source": "benign prostatic hypertrophy",
+    "Target": "mental status changes"
+  },
+  {
+    "Source": "benign prostatic hypertrophy",
+    "Target": "cachexia"
+  },
+  {
+    "Source": "benign prostatic hypertrophy",
+    "Target": "blackout"
+  },
+  {
+    "Source": "benign prostatic hypertrophy",
+    "Target": "orthostasis"
+  },
+  {
+    "Source": "benign prostatic hypertrophy",
+    "Target": "orthopnea"
+  },
+  {
+    "Source": "benign prostatic hypertrophy",
+    "Target": "night sweat"
+  },
+  {
+    "Source": "benign prostatic hypertrophy",
+    "Target": "distress respiratory"
+  },
+  {
+    "Source": "benign prostatic hypertrophy",
+    "Target": "anorexia"
+  },
+  {
+    "Source": "benign prostatic hypertrophy",
+    "Target": "dysarthria"
+  },
+  {
+    "Source": "delusion",
+    "Target": "loose associations"
+  },
+  {
+    "Source": "delusion",
+    "Target": "giddy mood"
+  },
+  {
+    "Source": "delusion",
+    "Target": "feeling hopeless"
+  },
+  {
+    "Source": "delusion",
+    "Target": "agitation"
+  },
+  {
+    "Source": "delusion",
+    "Target": "hallucinations auditory"
+  },
+  {
+    "Source": "delusion",
+    "Target": "irritable mood"
+  },
+  {
+    "Source": "delusion",
+    "Target": "sleeplessness"
+  },
+  {
+    "Source": "delusion",
+    "Target": "neologism"
+  },
+  {
+    "Source": "delusion",
+    "Target": "homicidal thoughts"
+  },
+  {
+    "Source": "delusion",
+    "Target": "disturbed family"
+  },
+  {
+    "Source": "delusion",
+    "Target": "worry"
+  },
+  {
+    "Source": "delusion",
+    "Target": "decompensation"
+  },
+  {
+    "Source": "delusion",
+    "Target": "verbally abusive behavior"
+  },
+  {
+    "Source": "delusion",
+    "Target": "catatonia"
+  },
+  {
+    "Source": "delusion",
+    "Target": "suicidal"
+  },
+  {
+    "Source": "delusion",
+    "Target": "terrify"
+  },
+  {
+    "Source": "delusion",
+    "Target": "blackout"
+  },
+  {
+    "Source": "delusion",
+    "Target": "weepiness"
+  },
+  {
+    "Source": "delusion",
+    "Target": "impaired cognition"
+  },
+  {
+    "Source": "delusion",
+    "Target": "irritable mood"
+  },
+  {
+    "Source": "delusion",
+    "Target": "agitation"
+  },
+  {
+    "Source": "malignant�neoplasms",
+    "Target": "pulsus�paradoxus"
+  },
+  {
+    "Source": "malignant�neoplasms",
+    "Target": "gravida"
+  },
+  {
+    "Source": "malignant�neoplasms",
+    "Target": "mass of body structure"
+  },
+  {
+    "Source": "malignant�neoplasms",
+    "Target": "lesion"
+  },
+  {
+    "Source": "malignant�neoplasms",
+    "Target": "heartburn"
+  },
+  {
+    "Source": "malignant�neoplasms",
+    "Target": "night sweat"
+  },
+  {
+    "Source": "malignant�neoplasms",
+    "Target": "thicken"
+  },
+  {
+    "Source": "malignant�neoplasms",
+    "Target": "chill"
+  },
+  {
+    "Source": "malignant�neoplasms",
+    "Target": "decreased translucency"
+  },
+  {
+    "Source": "malignant�neoplasms",
+    "Target": "pain abdominal"
+  },
+  {
+    "Source": "malignant�neoplasms",
+    "Target": "dullness"
+  },
+  {
+    "Source": "malignant�neoplasms",
+    "Target": "food intolerance"
+  },
+  {
+    "Source": "malignant�neoplasms",
+    "Target": "distress respiratory"
+  },
+  {
+    "Source": "malignant�neoplasms",
+    "Target": "hypotension"
+  },
+  {
+    "Source": "ketoacidosis diabetic",
+    "Target": "polyuria"
+  },
+  {
+    "Source": "ketoacidosis diabetic",
+    "Target": "vomiting"
+  },
+  {
+    "Source": "ketoacidosis diabetic",
+    "Target": "nausea"
+  },
+  {
+    "Source": "ketoacidosis diabetic",
+    "Target": "pain abdominal"
+  },
+  {
+    "Source": "ketoacidosis diabetic",
+    "Target": "milky"
+  },
+  {
+    "Source": "ketoacidosis diabetic",
+    "Target": "feeling strange"
+  },
+  {
+    "Source": "ketoacidosis diabetic",
+    "Target": "gurgle"
+  },
+  {
+    "Source": "ketoacidosis diabetic",
+    "Target": "nervousness"
+  },
+  {
+    "Source": "ketoacidosis diabetic",
+    "Target": "abdominal tenderness"
+  },
+  {
+    "Source": "ketoacidosis diabetic",
+    "Target": "regurgitates after swallowing"
+  },
+  {
+    "Source": "ketoacidosis diabetic",
+    "Target": "vision blurred"
+  },
+  {
+    "Source": "ketoacidosis diabetic",
+    "Target": "urinary hesitation"
+  },
+  {
+    "Source": "ketoacidosis diabetic",
+    "Target": "diarrhea"
+  },
+  {
+    "Source": "ketoacidosis diabetic",
+    "Target": "seizure"
+  },
+  {
+    "Source": "ketoacidosis diabetic",
+    "Target": "aura"
+  },
+  {
+    "Source": "tonic-clonic epilepsy",
+    "Target": "drowsiness"
+  },
+  {
+    "Source": "tonic-clonic epilepsy",
+    "Target": "lip smacking"
+  },
+  {
+    "Source": "tonic-clonic epilepsy",
+    "Target": "myoclonus"
+  },
+  {
+    "Source": "tonic-clonic epilepsy",
+    "Target": "tremor"
+  },
+  {
+    "Source": "tonic-clonic epilepsy",
+    "Target": "phonophobia"
+  },
+  {
+    "Source": "tonic-clonic epilepsy",
+    "Target": "rolling of eyes"
+  },
+  {
+    "Source": "tonic-clonic epilepsy",
+    "Target": "sleepy"
+  },
+  {
+    "Source": "tonic-clonic epilepsy",
+    "Target": "hirsutism"
+  },
+  {
+    "Source": "tonic-clonic epilepsy",
+    "Target": "moody"
+  },
+  {
+    "Source": "tonic-clonic epilepsy",
+    "Target": "muscle twitch"
+  },
+  {
+    "Source": "tonic-clonic epilepsy",
+    "Target": "unresponsiveness"
+  },
+  {
+    "Source": "tonic-clonic epilepsy",
+    "Target": "headache"
+  },
+  {
+    "Source": "tonic-clonic epilepsy",
+    "Target": "ambidexterity"
+  },
+  {
+    "Source": "tonic-clonic epilepsy",
+    "Target": "absences finding"
+  },
+  {
+    "Source": "tonic-clonic epilepsy",
+    "Target": "spasm"
+  },
+  {
+    "Source": "tonic-clonic epilepsy",
+    "Target": "decreased body weight"
+  },
+  {
+    "Source": "tonic-clonic epilepsy",
+    "Target": "tumor cell invasion"
+  },
+  {
+    "Source": "stenosis aortic valve",
+    "Target": "dyspnea on exertion"
+  },
+  {
+    "Source": "stenosis aortic valve",
+    "Target": "syncope"
+  },
+  {
+    "Source": "stenosis aortic valve",
+    "Target": "chest discomfort"
+  },
+  {
+    "Source": "stenosis aortic valve",
+    "Target": "systolic murmur"
+  },
+  {
+    "Source": "stenosis aortic valve",
+    "Target": "sciatica"
+  },
+  {
+    "Source": "stenosis aortic valve",
+    "Target": "angina pectoris"
+  },
+  {
+    "Source": "stenosis aortic valve",
+    "Target": "pain chest"
+  },
+  {
+    "Source": "stenosis aortic valve",
+    "Target": "frothy sputum"
+  },
+  {
+    "Source": "stenosis aortic valve",
+    "Target": "bradycardia"
+  },
+  {
+    "Source": "stenosis aortic valve",
+    "Target": "shortness of breath"
+  },
+  {
+    "Source": "stenosis aortic valve",
+    "Target": "pain"
+  },
+  {
+    "Source": "peripheral vascular disease",
+    "Target": "shortness of breath"
+  },
+  {
+    "Source": "peripheral vascular disease",
+    "Target": "rest pain"
+  },
+  {
+    "Source": "peripheral vascular disease",
+    "Target": "angina pectoris"
+  },
+  {
+    "Source": "peripheral vascular disease",
+    "Target": "unresponsiveness"
+  },
+  {
+    "Source": "peripheral vascular disease",
+    "Target": "hyperkalemia"
+  },
+  {
+    "Source": "peripheral vascular disease",
+    "Target": "sinus rhythm"
+  },
+  {
+    "Source": "peripheral vascular disease",
+    "Target": "labored breathing"
+  },
+  {
+    "Source": "peripheral vascular disease",
+    "Target": "dyspnea"
+  },
+  {
+    "Source": "peripheral vascular disease",
+    "Target": "sore to touch"
+  },
+  {
+    "Source": "peripheral vascular disease",
+    "Target": "anorexia"
+  },
+  {
+    "Source": "peripheral vascular disease",
+    "Target": "sleepy"
+  },
+  {
+    "Source": "carcinoma colon",
+    "Target": "lesion"
+  },
+  {
+    "Source": "carcinoma colon",
+    "Target": "prostatism"
+  },
+  {
+    "Source": "carcinoma colon",
+    "Target": "constipation"
+  },
+  {
+    "Source": "carcinoma colon",
+    "Target": "general discomfort"
+  },
+  {
+    "Source": "carcinoma colon",
+    "Target": "diarrhea"
+  },
+  {
+    "Source": "carcinoma colon",
+    "Target": "pain abdominal"
+  },
+  {
+    "Source": "carcinoma colon",
+    "Target": "urinary hesitation"
+  },
+  {
+    "Source": "carcinoma colon",
+    "Target": "dizzy spells"
+  },
+  {
+    "Source": "carcinoma colon",
+    "Target": "shooting pain"
+  },
+  {
+    "Source": "carcinoma colon",
+    "Target": "bradycardia"
+  },
+  {
+    "Source": "carcinoma colon",
+    "Target": "vomiting"
+  },
+  {
+    "Source": "carcinoma colon",
+    "Target": "systolic ejection murmur"
+  },
+  {
+    "Source": "carcinoma colon",
+    "Target": "nausea"
+  },
+  {
+    "Source": "carcinoma colon",
+    "Target": "hyperemesis"
+  },
+  {
+    "Source": "carcinoma colon",
+    "Target": "polydypsia"
+  },
+  {
+    "Source": "adhesion",
+    "Target": "flatulence"
+  },
+  {
+    "Source": "adhesion",
+    "Target": "pain"
+  },
+  {
+    "Source": "adhesion",
+    "Target": "large-for-dates fetus"
+  },
+  {
+    "Source": "adhesion",
+    "Target": "para"
+  },
+  {
+    "Source": "adhesion",
+    "Target": "vomiting"
+  },
+  {
+    "Source": "adhesion",
+    "Target": "lung nodule"
+  },
+  {
+    "Source": "adhesion",
+    "Target": "breech presentation"
+  },
+  {
+    "Source": "adhesion",
+    "Target": "shortness of breath"
+  },
+  {
+    "Source": "adhesion",
+    "Target": "decreased body weight"
+  },
+  {
+    "Source": "adhesion",
+    "Target": "immobile"
+  },
+  {
+    "Source": "adhesion",
+    "Target": "unsteady gait"
+  },
+  {
+    "Source": "adhesion",
+    "Target": "hallucinations visual"
+  },
+  {
+    "Source": "adhesion",
+    "Target": "feeling suicidal"
+  },
+  {
+    "Source": "parkinson disease",
+    "Target": "achalasia"
+  },
+  {
+    "Source": "parkinson disease",
+    "Target": "fall"
+  },
+  {
+    "Source": "parkinson disease",
+    "Target": "stiffness"
+  },
+  {
+    "Source": "parkinson disease",
+    "Target": "withdraw"
+  },
+  {
+    "Source": "parkinson disease",
+    "Target": "agitation"
+  },
+  {
+    "Source": "parkinson disease",
+    "Target": "hemiplegia"
+  },
+  {
+    "Source": "parkinson disease",
+    "Target": "difficulty"
+  },
+  {
+    "Source": "parkinson disease",
+    "Target": "unresponsiveness"
+  },
+  {
+    "Source": "parkinson disease",
+    "Target": "syncope"
+  },
+  {
+    "Source": "parkinson disease",
+    "Target": "facial paresis"
+  },
+  {
+    "Source": "parkinson disease",
+    "Target": "orthostasis"
+  },
+  {
+    "Source": "parkinson disease",
+    "Target": "worry"
+  },
+  {
+    "Source": "parkinson disease",
+    "Target": "drowsiness"
+  },
+  {
+    "Source": "parkinson disease",
+    "Target": "sleepy"
+  },
+  {
+    "Source": "parkinson disease",
+    "Target": "hematuria"
+  },
+  {
+    "Source": "parkinson disease",
+    "Target": "tremor"
+  },
+  {
+    "Source": "parkinson disease",
+    "Target": "night sweat"
+  },
+  {
+    "Source": "parkinson disease",
+    "Target": "mass of body structure"
+  },
+  {
+    "Source": "dementia",
+    "Target": "fever"
+  },
+  {
+    "Source": "dementia",
+    "Target": "fall"
+  },
+  {
+    "Source": "dementia",
+    "Target": "unresponsiveness"
+  },
+  {
+    "Source": "dementia",
+    "Target": "lethargy"
+  },
+  {
+    "Source": "dementia",
+    "Target": "agitation"
+  },
+  {
+    "Source": "dementia",
+    "Target": "ecchymosis"
+  },
+  {
+    "Source": "dementia",
+    "Target": "syncope"
+  },
+  {
+    "Source": "dementia",
+    "Target": "rale"
+  },
+  {
+    "Source": "dementia",
+    "Target": "unconscious state"
+  },
+  {
+    "Source": "dementia",
+    "Target": "cough"
+  },
+  {
+    "Source": "dementia",
+    "Target": "bedridden"
+  },
+  {
+    "Source": "dementia",
+    "Target": "bedridden"
+  },
+  {
+    "Source": "dementia",
+    "Target": "pain"
+  },
+  {
+    "Source": "dementia",
+    "Target": "facial paresis"
+  },
+  {
+    "Source": "dementia",
+    "Target": "abdominal tenderness"
+  },
+  {
+    "Source": "dementia",
+    "Target": "rhonchus"
+  },
+  {
+    "Source": "dementia",
+    "Target": "unsteady gait"
+  },
+  {
+    "Source": "dementia",
+    "Target": "hallucinations auditory"
+  },
+  {
+    "Source": "chronic kidney failure",
+    "Target": "vomiting"
+  },
+  {
+    "Source": "chronic kidney failure",
+    "Target": "orthopnea"
+  },
+  {
+    "Source": "chronic kidney failure",
+    "Target": "hyperkalemia"
+  },
+  {
+    "Source": "chronic kidney failure",
+    "Target": "oliguria"
+  },
+  {
+    "Source": "chronic kidney failure",
+    "Target": "jugular venous distention"
+  },
+  {
+    "Source": "chronic kidney failure",
+    "Target": "nausea"
+  },
+  {
+    "Source": "chronic kidney failure",
+    "Target": "shortness of breath"
+  },
+  {
+    "Source": "chronic kidney failure",
+    "Target": "mental status changes"
+  },
+  {
+    "Source": "chronic kidney failure",
+    "Target": "diarrhea"
+  },
+  {
+    "Source": "chronic kidney failure",
+    "Target": "asthenia"
+  },
+  {
+    "Source": "chronic kidney failure",
+    "Target": "chest tightness"
+  },
+  {
+    "Source": "chronic kidney failure",
+    "Target": "malaise"
+  },
+  {
+    "Source": "chronic kidney failure",
+    "Target": "chill"
+  },
+  {
+    "Source": "chronic kidney failure",
+    "Target": "rale"
+  },
+  {
+    "Source": "chronic kidney failure",
+    "Target": "fever"
+  },
+  {
+    "Source": "chronic kidney failure",
+    "Target": "pleuritic pain"
+  },
+  {
+    "Source": "chronic kidney failure",
+    "Target": "apyrexial"
+  },
+  {
+    "Source": "chronic kidney failure",
+    "Target": "guaiac positive"
+  },
+  {
+    "Source": "chronic kidney failure",
+    "Target": "swelling"
+  },
+  {
+    "Source": "chronic kidney failure",
+    "Target": "catatonia"
+  },
+  {
+    "Source": "chronic kidney failure",
+    "Target": "unresponsiveness"
+  },
+  {
+    "Source": "chronic kidney failure",
+    "Target": "yellow sputum"
+  },
+  {
+    "Source": "cardiomyopathy",
+    "Target": "shortness of breath"
+  },
+  {
+    "Source": "cardiomyopathy",
+    "Target": "orthopnea"
+  },
+  {
+    "Source": "cardiomyopathy",
+    "Target": "hypokinesia"
+  },
+  {
+    "Source": "cardiomyopathy",
+    "Target": "jugular venous distention"
+  },
+  {
+    "Source": "cardiomyopathy",
+    "Target": "palpitation"
+  },
+  {
+    "Source": "cardiomyopathy",
+    "Target": "pain chest"
+  },
+  {
+    "Source": "cardiomyopathy",
+    "Target": "syncope"
+  },
+  {
+    "Source": "cardiomyopathy",
+    "Target": "yellow sputum"
+  },
+  {
+    "Source": "cardiomyopathy",
+    "Target": "rale"
+  },
+  {
+    "Source": "cardiomyopathy",
+    "Target": "dyspnea"
+  },
+  {
+    "Source": "cardiomyopathy",
+    "Target": "dyspnea on exertion"
+  },
+  {
+    "Source": "cardiomyopathy",
+    "Target": "left�atrial�hypertrophy"
+  },
+  {
+    "Source": "cardiomyopathy",
+    "Target": "fatigue"
+  },
+  {
+    "Source": "cardiomyopathy",
+    "Target": "weight gain"
+  },
+  {
+    "Source": "cardiomyopathy",
+    "Target": "patient non compliance"
+  },
+  {
+    "Source": "cholecystitis",
+    "Target": "moan"
+  },
+  {
+    "Source": "cholecystitis",
+    "Target": "nausea"
+  },
+  {
+    "Source": "cholecystitis",
+    "Target": "pain abdominal"
+  },
+  {
+    "Source": "cholecystitis",
+    "Target": "Murphy's sign"
+  },
+  {
+    "Source": "cholecystitis",
+    "Target": "flatulence"
+  },
+  {
+    "Source": "cholecystitis",
+    "Target": "colic abdominal"
+  },
+  {
+    "Source": "cholecystitis",
+    "Target": "pain"
+  },
+  {
+    "Source": "cholecystitis",
+    "Target": "ascites"
+  },
+  {
+    "Source": "cholecystitis",
+    "Target": "diarrhea"
+  },
+  {
+    "Source": "cholecystitis",
+    "Target": "qt interval prolonged"
+  },
+  {
+    "Source": "cholecystitis",
+    "Target": "cardiovascular finding"
+  },
+  {
+    "Source": "cholecystitis",
+    "Target": "cardiovascular event"
+  },
+  {
+    "Source": "cholecystitis",
+    "Target": "groggy"
+  },
+  {
+    "Source": "cholecystitis",
+    "Target": "sinus rhythm"
+  },
+  {
+    "Source": "cholecystitis",
+    "Target": "gasping for breath"
+  },
+  {
+    "Source": "cholecystitis",
+    "Target": "constipation"
+  },
+  {
+    "Source": "cholecystitis",
+    "Target": "feces in rectum"
+  },
+  {
+    "Source": "cholecystitis",
+    "Target": "abnormally hard consistency"
+  },
+  {
+    "Source": "dependence",
+    "Target": "intoxication"
+  },
+  {
+    "Source": "dependence",
+    "Target": "tremor"
+  },
+  {
+    "Source": "dependence",
+    "Target": "agitation"
+  },
+  {
+    "Source": "dependence",
+    "Target": "suicidal"
+  },
+  {
+    "Source": "dependence",
+    "Target": "homelessness"
+  },
+  {
+    "Source": "dependence",
+    "Target": "prostatism"
+  },
+  {
+    "Source": "dependence",
+    "Target": "lethargy"
+  },
+  {
+    "Source": "dependence",
+    "Target": "seizure"
+  },
+  {
+    "Source": "dependence",
+    "Target": "muscle twitch"
+  },
+  {
+    "Source": "dependence",
+    "Target": "stuffy nose"
+  },
+  {
+    "Source": "dependence",
+    "Target": "feeling hopeless"
+  },
+  {
+    "Source": "dependence",
+    "Target": "heavy legs"
+  },
+  {
+    "Source": "dependence",
+    "Target": "rale"
+  },
+  {
+    "Source": "decubitus ulcer",
+    "Target": "systolic murmur"
+  },
+  {
+    "Source": "decubitus ulcer",
+    "Target": "frail"
+  },
+  {
+    "Source": "decubitus ulcer",
+    "Target": "fever"
+  },
+  {
+    "Source": "hyperlipidemia",
+    "Target": "pain chest"
+  },
+  {
+    "Source": "hyperlipidemia",
+    "Target": "angina pectoris"
+  },
+  {
+    "Source": "hyperlipidemia",
+    "Target": "palpitation"
+  },
+  {
+    "Source": "hyperlipidemia",
+    "Target": "presence of q wave"
+  },
+  {
+    "Source": "hyperlipidemia",
+    "Target": "photopsia"
+  },
+  {
+    "Source": "hyperlipidemia",
+    "Target": "sweat"
+  },
+  {
+    "Source": "hyperlipidemia",
+    "Target": "sweating increased"
+  },
+  {
+    "Source": "hyperlipidemia",
+    "Target": "chest discomfort"
+  },
+  {
+    "Source": "hyperlipidemia",
+    "Target": "shortness of breath"
+  },
+  {
+    "Source": "hyperlipidemia",
+    "Target": "giddy mood"
+  },
+  {
+    "Source": "hyperlipidemia",
+    "Target": "hypokinesia"
+  },
+  {
+    "Source": "hyperlipidemia",
+    "Target": "hemiplegia"
+  },
+  {
+    "Source": "hyperlipidemia",
+    "Target": "dizziness"
+  },
+  {
+    "Source": "affect labile",
+    "Target": "extreme exhaustion"
+  },
+  {
+    "Source": "affect labile",
+    "Target": "sleeplessness"
+  },
+  {
+    "Source": "affect labile",
+    "Target": "enuresis"
+  },
+  {
+    "Source": "affect labile",
+    "Target": "patient non compliance"
+  },
+  {
+    "Source": "affect labile",
+    "Target": "feeling hopeless"
+  },
+  {
+    "Source": "affect labile",
+    "Target": "hallucinations visual"
+  },
+  {
+    "Source": "affect labile",
+    "Target": "bedridden"
+  },
+  {
+    "Source": "affect labile",
+    "Target": "bedridden"
+  },
+  {
+    "Source": "affect labile",
+    "Target": "prostatism"
+  },
+  {
+    "Source": "upper respiratory infection",
+    "Target": "cough"
+  },
+  {
+    "Source": "upper respiratory infection",
+    "Target": "throat sore"
+  },
+  {
+    "Source": "upper respiratory infection",
+    "Target": "wheezing"
+  },
+  {
+    "Source": "upper respiratory infection",
+    "Target": "shortness of breath"
+  },
+  {
+    "Source": "upper respiratory infection",
+    "Target": "labored breathing"
+  },
+  {
+    "Source": "upper respiratory infection",
+    "Target": "fever"
+  },
+  {
+    "Source": "upper respiratory infection",
+    "Target": "stuffy nose"
+  },
+  {
+    "Source": "upper respiratory infection",
+    "Target": "non-productive cough"
+  },
+  {
+    "Source": "upper respiratory infection",
+    "Target": "snuffle"
+  },
+  {
+    "Source": "upper respiratory infection",
+    "Target": "indifferent mood"
+  },
+  {
+    "Source": "upper respiratory infection",
+    "Target": "egophony"
+  },
+  {
+    "Source": "upper respiratory infection",
+    "Target": "barking cough"
+  },
+  {
+    "Source": "upper respiratory infection",
+    "Target": "polymyalgia"
+  },
+  {
+    "Source": "upper respiratory infection",
+    "Target": "pleuritic pain"
+  },
+  {
+    "Source": "upper respiratory infection",
+    "Target": "night sweat"
+  },
+  {
+    "Source": "upper respiratory infection",
+    "Target": "dyspnea"
+  },
+  {
+    "Source": "upper respiratory infection",
+    "Target": "productive cough"
+  },
+  {
+    "Source": "upper respiratory infection",
+    "Target": "decreased translucency"
+  },
+  {
+    "Source": "upper respiratory infection",
+    "Target": "rhonchus"
+  },
+  {
+    "Source": "upper respiratory infection",
+    "Target": "rapid shallow breathing"
+  },
+  {
+    "Source": "upper respiratory infection",
+    "Target": "apyrexial"
+  },
+  {
+    "Source": "upper respiratory infection",
+    "Target": "noisy respiration"
+  },
+  {
+    "Source": "upper respiratory infection",
+    "Target": "nasal discharge present"
+  },
+  {
+    "Source": "upper respiratory infection",
+    "Target": "emphysematous change"
+  },
+  {
+    "Source": "upper respiratory infection",
+    "Target": "frail"
+  },
+  {
+    "Source": "upper respiratory infection",
+    "Target": "cystic lesion"
+  },
+  {
+    "Source": "upper respiratory infection",
+    "Target": "symptom aggravating factors"
+  },
+  {
+    "Source": "upper respiratory infection",
+    "Target": "hemodynamically stable"
+  },
+  {
+    "Source": "kidney disease",
+    "Target": "shortness of breath"
+  },
+  {
+    "Source": "kidney disease",
+    "Target": "hyperkalemia"
+  },
+  {
+    "Source": "kidney disease",
+    "Target": "pain chest"
+  },
+  {
+    "Source": "kidney disease",
+    "Target": "fever"
+  },
+  {
+    "Source": "kidney disease",
+    "Target": "gravida"
+  },
+  {
+    "Source": "kidney disease",
+    "Target": "bleeding of vagina"
+  },
+  {
+    "Source": "malignant neoplasm of breast",
+    "Target": "mass in breast"
+  },
+  {
+    "Source": "malignant neoplasm of breast",
+    "Target": "mass of body structure"
+  },
+  {
+    "Source": "malignant neoplasm of breast",
+    "Target": "paresthesia"
+  },
+  {
+    "Source": "malignant neoplasm of breast",
+    "Target": "retropulsion"
+  },
+  {
+    "Source": "malignant neoplasm of breast",
+    "Target": "erythema"
+  },
+  {
+    "Source": "malignant neoplasm of breast",
+    "Target": "difficulty"
+  },
+  {
+    "Source": "malignant neoplasm of breast",
+    "Target": "lesion"
+  },
+  {
+    "Source": "malignant neoplasm of breast",
+    "Target": "estrogen use"
+  },
+  {
+    "Source": "malignant neoplasm of breast",
+    "Target": "burning sensation"
+  },
+  {
+    "Source": "malignant neoplasm of breast",
+    "Target": "dyspnea"
+  },
+  {
+    "Source": "malignant neoplasm of breast",
+    "Target": "swelling"
+  },
+  {
+    "Source": "malignant neoplasm of breast",
+    "Target": "formication"
+  },
+  {
+    "Source": "cellulitis",
+    "Target": "erythema"
+  },
+  {
+    "Source": "cellulitis",
+    "Target": "pain"
+  },
+  {
+    "Source": "cellulitis",
+    "Target": "swelling"
+  },
+  {
+    "Source": "cellulitis",
+    "Target": "redness"
+  },
+  {
+    "Source": "cellulitis",
+    "Target": "fever"
+  },
+  {
+    "Source": "cellulitis",
+    "Target": "abscess bacterial"
+  },
+  {
+    "Source": "cellulitis",
+    "Target": "patient non compliance"
+  },
+  {
+    "Source": "cellulitis",
+    "Target": "hypesthesia"
+  },
+  {
+    "Source": "cellulitis",
+    "Target": "hyperacusis"
+  },
+  {
+    "Source": "cellulitis",
+    "Target": "pruritus"
+  },
+  {
+    "Source": "cellulitis",
+    "Target": "pain chest"
+  },
+  {
+    "Source": "cellulitis",
+    "Target": "scratch marks"
+  },
+  {
+    "Source": "cellulitis",
+    "Target": "chill"
+  },
+  {
+    "Source": "cellulitis",
+    "Target": "sore to touch"
+  },
+  {
+    "Source": "chronic obstructive airway disease",
+    "Target": "shortness of breath"
+  },
+  {
+    "Source": "chronic obstructive airway disease",
+    "Target": "wheezing"
+  },
+  {
+    "Source": "chronic obstructive airway disease",
+    "Target": "cough"
+  },
+  {
+    "Source": "chronic obstructive airway disease",
+    "Target": "dyspnea"
+  },
+  {
+    "Source": "chronic obstructive airway disease",
+    "Target": "distress respiratory"
+  },
+  {
+    "Source": "chronic obstructive airway disease",
+    "Target": "sputum purulent"
+  },
+  {
+    "Source": "chronic obstructive airway disease",
+    "Target": "hypoxemia"
+  },
+  {
+    "Source": "chronic obstructive airway disease",
+    "Target": "hypercapnia"
+  },
+  {
+    "Source": "chronic obstructive airway disease",
+    "Target": "patient non compliance"
+  },
+  {
+    "Source": "chronic obstructive airway disease",
+    "Target": "chest tightness"
+  },
+  {
+    "Source": "aphasia",
+    "Target": "clonus"
+  },
+  {
+    "Source": "aphasia",
+    "Target": "egophony"
+  },
+  {
+    "Source": "aphasia",
+    "Target": "facial paresis"
+  },
+  {
+    "Source": "aphasia",
+    "Target": "aphagia"
+  },
+  {
+    "Source": "aphasia",
+    "Target": "muscle twitch"
+  },
+  {
+    "Source": "aphasia",
+    "Target": "paralyse"
+  },
+  {
+    "Source": "aphasia",
+    "Target": "low back pain"
+  },
+  {
+    "Source": "aphasia",
+    "Target": "charleyhorse"
+  },
+  {
+    "Source": "pericardial effusion body substance",
+    "Target": "pericardial friction rub"
+  },
+  {
+    "Source": "pericardial effusion body substance",
+    "Target": "dyspnea"
+  },
+  {
+    "Source": "pericardial effusion body substance",
+    "Target": "shortness of breath"
+  },
+  {
+    "Source": "pericardial effusion body substance",
+    "Target": "hemodynamically stable"
+  },
+  {
+    "Source": "pericardial effusion body substance",
+    "Target": "cardiomegaly"
+  },
+  {
+    "Source": "pericardial effusion body substance",
+    "Target": "hypotension"
+  },
+  {
+    "Source": "pericardial effusion body substance",
+    "Target": "sputum purulent"
+  },
+  {
+    "Source": "pericardial effusion body substance",
+    "Target": "facial paresis"
+  },
+  {
+    "Source": "pericardial effusion body substance",
+    "Target": "pain"
+  },
+  {
+    "Source": "pericardial effusion body substance",
+    "Target": "oliguria"
+  },
+  {
+    "Source": "pericardial effusion body substance",
+    "Target": "blackout"
+  },
+  {
+    "Source": "pericardial effusion body substance",
+    "Target": "intoxication"
+  },
+  {
+    "Source": "influenza",
+    "Target": "uncoordination"
+  },
+  {
+    "Source": "influenza",
+    "Target": "fever"
+  },
+  {
+    "Source": "influenza",
+    "Target": "pleuritic pain"
+  },
+  {
+    "Source": "influenza",
+    "Target": "snuffle"
+  },
+  {
+    "Source": "influenza",
+    "Target": "throat sore"
+  },
+  {
+    "Source": "influenza",
+    "Target": "malaise"
+  },
+  {
+    "Source": "influenza",
+    "Target": "debilitation"
+  },
+  {
+    "Source": "influenza",
+    "Target": "symptom aggravating factors"
+  },
+  {
+    "Source": "influenza",
+    "Target": "chill"
+  },
+  {
+    "Source": "influenza",
+    "Target": "scleral�icterus"
+  },
+  {
+    "Source": "influenza",
+    "Target": "nasal flaring"
+  },
+  {
+    "Source": "influenza",
+    "Target": "dysuria"
+  },
+  {
+    "Source": "influenza",
+    "Target": "lip smacking"
+  },
+  {
+    "Source": "influenza",
+    "Target": "headache"
+  },
+  {
+    "Source": "influenza",
+    "Target": "sneeze"
+  },
+  {
+    "Source": "influenza",
+    "Target": "snore"
+  },
+  {
+    "Source": "influenza",
+    "Target": "green sputum"
+  },
+  {
+    "Source": "influenza",
+    "Target": "shortness of breath"
+  },
+  {
+    "Source": "influenza",
+    "Target": "distress respiratory"
+  },
+  {
+    "Source": "influenza",
+    "Target": "blackout"
+  },
+  {
+    "Source": "influenza",
+    "Target": "extreme exhaustion"
+  },
+  {
+    "Source": "pyelonephritis",
+    "Target": "fever"
+  },
+  {
+    "Source": "pyelonephritis",
+    "Target": "pain"
+  },
+  {
+    "Source": "pyelonephritis",
+    "Target": "urgency of�micturition"
+  },
+  {
+    "Source": "pyelonephritis",
+    "Target": "hematuria"
+  },
+  {
+    "Source": "pyelonephritis",
+    "Target": "vomiting"
+  },
+  {
+    "Source": "pyelonephritis",
+    "Target": "chill"
+  },
+  {
+    "Source": "pyelonephritis",
+    "Target": "diarrhea"
+  },
+  {
+    "Source": "pyelonephritis",
+    "Target": "nausea"
+  },
+  {
+    "Source": "pyelonephritis",
+    "Target": "pain abdominal"
+  },
+  {
+    "Source": "pyelonephritis",
+    "Target": "myalgia"
+  },
+  {
+    "Source": "pyelonephritis",
+    "Target": "fever"
+  },
+  {
+    "Source": "pyelonephritis",
+    "Target": "chill"
+  },
+  {
+    "Source": "glaucoma",
+    "Target": "fall"
+  },
+  {
+    "Source": "glaucoma",
+    "Target": "distended abdomen"
+  },
+  {
+    "Source": "glaucoma",
+    "Target": "unsteady gait"
+  },
+  {
+    "Source": "glaucoma",
+    "Target": "paresthesia"
+  },
+  {
+    "Source": "glaucoma",
+    "Target": "hyponatremia"
+  },
+  {
+    "Source": "glaucoma",
+    "Target": "agitation"
+  },
+  {
+    "Source": "glaucoma",
+    "Target": "unconscious state"
+  },
+  {
+    "Source": "glaucoma",
+    "Target": "burning sensation"
+  },
+  {
+    "Source": "glaucoma",
+    "Target": "lesion"
+  },
+  {
+    "Source": "glaucoma",
+    "Target": "mass of body structure"
+  },
+  {
+    "Source": "hernia�hiatal",
+    "Target": "pain abdominal"
+  },
+  {
+    "Source": "hernia�hiatal",
+    "Target": "fatigability"
+  },
+  {
+    "Source": "hernia�hiatal",
+    "Target": "prodrome"
+  },
+  {
+    "Source": "hernia�hiatal",
+    "Target": "vomiting"
+  },
+  {
+    "Source": "hernia�hiatal",
+    "Target": "nausea"
+  },
+  {
+    "Source": "hernia�hiatal",
+    "Target": "myalgia"
+  },
+  {
+    "Source": "hernia�hiatal",
+    "Target": "hyponatremia"
+  },
+  {
+    "Source": "hernia�hiatal",
+    "Target": "sore to touch"
+  },
+  {
+    "Source": "hernia�hiatal",
+    "Target": "general discomfort"
+  },
+  {
+    "Source": "hernia�hiatal",
+    "Target": "dyspnea on exertion"
+  },
+  {
+    "Source": "hernia�hiatal",
+    "Target": "asterixis"
+  },
+  {
+    "Source": "hernia�hiatal",
+    "Target": "guaiac positive"
+  },
+  {
+    "Source": "hernia�hiatal",
+    "Target": "numbness of hand"
+  },
+  {
+    "Source": "hernia�hiatal",
+    "Target": "headache"
+  },
+  {
+    "Source": "hernia�hiatal",
+    "Target": "photophobia"
+  },
+  {
+    "Source": "oralcandidiasis",
+    "Target": "diarrhea"
+  },
+  {
+    "Source": "oralcandidiasis",
+    "Target": "throat sore"
+  },
+  {
+    "Source": "oralcandidiasis",
+    "Target": "decreased body weight"
+  },
+  {
+    "Source": "oralcandidiasis",
+    "Target": "chill"
+  },
+  {
+    "Source": "oralcandidiasis",
+    "Target": "headache"
+  },
+  {
+    "Source": "oralcandidiasis",
+    "Target": "abdominal tenderness"
+  },
+  {
+    "Source": "oralcandidiasis",
+    "Target": "patient non compliance"
+  },
+  {
+    "Source": "oralcandidiasis",
+    "Target": "photophobia"
+  },
+  {
+    "Source": "oralcandidiasis",
+    "Target": "night sweat"
+  },
+  {
+    "Source": "oralcandidiasis",
+    "Target": "painful swallowing"
+  },
+  {
+    "Source": "oralcandidiasis",
+    "Target": "poor dentition"
+  },
+  {
+    "Source": "oralcandidiasis",
+    "Target": "transaminitis"
+  },
+  {
+    "Source": "oralcandidiasis",
+    "Target": "non-productive cough"
+  },
+  {
+    "Source": "oralcandidiasis",
+    "Target": "adverse reaction"
+  },
+  {
+    "Source": "oralcandidiasis",
+    "Target": "adverse effect"
+  },
+  {
+    "Source": "oralcandidiasis",
+    "Target": "abdominal bloating"
+  },
+  {
+    "Source": "asthma",
+    "Target": "wheezing"
+  },
+  {
+    "Source": "asthma",
+    "Target": "cough"
+  },
+  {
+    "Source": "asthma",
+    "Target": "shortness of breath"
+  },
+  {
+    "Source": "asthma",
+    "Target": "chest tightness"
+  },
+  {
+    "Source": "asthma",
+    "Target": "non-productive cough"
+  },
+  {
+    "Source": "asthma",
+    "Target": "pleuritic pain"
+  },
+  {
+    "Source": "asthma",
+    "Target": "productive cough"
+  },
+  {
+    "Source": "asthma",
+    "Target": "symptom aggravating factors"
+  },
+  {
+    "Source": "asthma",
+    "Target": "distress respiratory"
+  },
+  {
+    "Source": "transient ischemic attack",
+    "Target": "speech slurred"
+  },
+  {
+    "Source": "transient ischemic attack",
+    "Target": "dysarthria"
+  },
+  {
+    "Source": "transient ischemic attack",
+    "Target": "facial paresis"
+  },
+  {
+    "Source": "transient ischemic attack",
+    "Target": "asthenia"
+  },
+  {
+    "Source": "transient ischemic attack",
+    "Target": "neck stiffness"
+  },
+  {
+    "Source": "transient ischemic attack",
+    "Target": "vertigo"
+  },
+  {
+    "Source": "transient ischemic attack",
+    "Target": "numbness"
+  },
+  {
+    "Source": "transient ischemic attack",
+    "Target": "lightheadedness"
+  },
+  {
+    "Source": "transient ischemic attack",
+    "Target": "extrapyramidal sign"
+  },
+  {
+    "Source": "transient ischemic attack",
+    "Target": "Stahli's line"
+  },
+  {
+    "Source": "transient ischemic attack",
+    "Target": "vision blurred"
+  },
+  {
+    "Source": "transient ischemic attack",
+    "Target": "headache"
+  },
+  {
+    "Source": "transient ischemic attack",
+    "Target": "room spinning"
+  },
+  {
+    "Source": "transient ischemic attack",
+    "Target": "syncope"
+  },
+  {
+    "Source": "transient ischemic attack",
+    "Target": "difficulty"
+  },
+  {
+    "Source": "transient ischemic attack",
+    "Target": "rambling speech"
+  },
+  {
+    "Source": "transient ischemic attack",
+    "Target": "clumsiness"
+  },
+  {
+    "Source": "bacteremia",
+    "Target": "fever"
+  },
+  {
+    "Source": "bacteremia",
+    "Target": "chill"
+  },
+  {
+    "Source": "bacteremia",
+    "Target": "flushing"
+  },
+  {
+    "Source": "bacteremia",
+    "Target": "unresponsiveness"
+  },
+  {
+    "Source": "bacteremia",
+    "Target": "indifferent mood"
+  },
+  {
+    "Source": "bacteremia",
+    "Target": "urinoma"
+  },
+  {
+    "Source": "bacteremia",
+    "Target": "vomiting"
+  },
+  {
+    "Source": "bacteremia",
+    "Target": "distended abdomen"
+  },
+  {
+    "Source": "bacteremia",
+    "Target": "hypoalbuminemia"
+  },
+  {
+    "Source": "bacteremia",
+    "Target": "pustule"
+  },
+  {
+    "Source": "bacteremia",
+    "Target": "prostatism"
+  },
+  {
+    "Source": "bacteremia",
+    "Target": "diarrhea"
+  },
+  {
+    "Source": "bacteremia",
+    "Target": "abdominal tenderness"
+  },
+  {
+    "Source": "bacteremia",
+    "Target": "pleuritic pain"
+  },
+  {
+    "Source": "bacteremia",
+    "Target": "decreased translucency"
+  },
+  {
+    "Source": "bacteremia",
+    "Target": "pallor"
+  },
+  {
+    "Source": "embolism pulmonary",
+    "Target": "shortness of breath"
+  },
+  {
+    "Source": "embolism pulmonary",
+    "Target": "hypoxemia"
+  },
+  {
+    "Source": "embolism pulmonary",
+    "Target": "tachypnea"
+  },
+  {
+    "Source": "embolism pulmonary",
+    "Target": "hematocrit decreased"
+  },
+  {
+    "Source": "embolism pulmonary",
+    "Target": "pain chest"
+  },
+  {
+    "Source": "embolism pulmonary",
+    "Target": "dyspnea"
+  },
+  {
+    "Source": "embolism pulmonary",
+    "Target": "pleuritic pain"
+  },
+  {
+    "Source": "embolism pulmonary",
+    "Target": "neck stiffness"
+  },
+  {
+    "Source": "embolism pulmonary",
+    "Target": "yellow sputum"
+  },
+  {
+    "Source": "embolism pulmonary",
+    "Target": "productive cough"
+  },
+  {
+    "Source": "embolism pulmonary",
+    "Target": "cicatrisation"
+  },
+  {
+    "Source": "embolism pulmonary",
+    "Target": "unresponsiveness"
+  },
+  {
+    "Source": "embolism pulmonary",
+    "Target": "distress respiratory"
+  },
+  {
+    "Source": "embolism pulmonary",
+    "Target": "wheezing"
+  },
+  {
+    "Source": "embolism pulmonary",
+    "Target": "apyrexial"
+  },
+  {
+    "Source": "embolism pulmonary",
+    "Target": "non-productive cough"
+  },
+  {
+    "Source": "hyperbilirubinemia",
+    "Target": "cyanosis"
+  },
+  {
+    "Source": "hyperbilirubinemia",
+    "Target": "tachypnea"
+  },
+  {
+    "Source": "hyperbilirubinemia",
+    "Target": "para"
+  },
+  {
+    "Source": "hyperbilirubinemia",
+    "Target": "bradycardia"
+  },
+  {
+    "Source": "hyperbilirubinemia",
+    "Target": "breech presentation"
+  },
+  {
+    "Source": "hyperbilirubinemia",
+    "Target": "cushingoid facies"
+  },
+  {
+    "Source": "hyperbilirubinemia",
+    "Target": "cushingoid�habitus"
+  },
+  {
+    "Source": "hyperbilirubinemia",
+    "Target": "cough"
+  },
+  {
+    "Source": "hyperbilirubinemia",
+    "Target": "myalgia"
+  },
+  {
+    "Source": "diabetes",
+    "Target": "polyuria"
+  },
+  {
+    "Source": "diabetes",
+    "Target": "polydypsia"
+  },
+  {
+    "Source": "diabetes",
+    "Target": "shortness of breath"
+  },
+  {
+    "Source": "diabetes",
+    "Target": "pain chest"
+  },
+  {
+    "Source": "diabetes",
+    "Target": "asthenia"
+  },
+  {
+    "Source": "diabetes",
+    "Target": "nausea"
+  },
+  {
+    "Source": "diabetes",
+    "Target": "orthopnea"
+  },
+  {
+    "Source": "diabetes",
+    "Target": "rale"
+  },
+  {
+    "Source": "diabetes",
+    "Target": "sweat"
+  },
+  {
+    "Source": "diabetes",
+    "Target": "sweating increased"
+  },
+  {
+    "Source": "diabetes",
+    "Target": "unresponsiveness"
+  },
+  {
+    "Source": "diabetes",
+    "Target": "mental status changes"
+  },
+  {
+    "Source": "diabetes",
+    "Target": "vertigo"
+  },
+  {
+    "Source": "diabetes",
+    "Target": "vomiting"
+  },
+  {
+    "Source": "diabetes",
+    "Target": "labored breathing"
+  },
+  {
+    "Source": "gastroesophageal reflux disease",
+    "Target": "pain"
+  },
+  {
+    "Source": "gastroesophageal reflux disease",
+    "Target": "pain chest"
+  },
+  {
+    "Source": "gastroesophageal reflux disease",
+    "Target": "burning sensation"
+  },
+  {
+    "Source": "gastroesophageal reflux disease",
+    "Target": "hyponatremia"
+  },
+  {
+    "Source": "gastroesophageal reflux disease",
+    "Target": "satiety early"
+  },
+  {
+    "Source": "gastroesophageal reflux disease",
+    "Target": "throbbing sensation quality"
+  },
+  {
+    "Source": "gastroesophageal reflux disease",
+    "Target": "chest tightness"
+  },
+  {
+    "Source": "gastroesophageal reflux disease",
+    "Target": "sensory discomfort"
+  },
+  {
+    "Source": "gastroesophageal reflux disease",
+    "Target": "presence of q wave"
+  },
+  {
+    "Source": "gastroesophageal reflux disease",
+    "Target": "nausea"
+  },
+  {
+    "Source": "gastroesophageal reflux disease",
+    "Target": "general discomfort"
+  },
+  {
+    "Source": "gastroesophageal reflux disease",
+    "Target": "constipation"
+  },
+  {
+    "Source": "gastroesophageal reflux disease",
+    "Target": "palpitation"
+  },
+  {
+    "Source": "gastroesophageal reflux disease",
+    "Target": "pain abdominal"
+  },
+  {
+    "Source": "gastroesophageal reflux disease",
+    "Target": "heartburn"
+  },
+  {
+    "Source": "gastroesophageal reflux disease",
+    "Target": "sweat"
+  },
+  {
+    "Source": "gastroesophageal reflux disease",
+    "Target": "sweating increased"
+  },
+  {
+    "Source": "gastroesophageal reflux disease",
+    "Target": "asthenia"
+  },
+  {
+    "Source": "hernia",
+    "Target": "pain abdominal"
+  },
+  {
+    "Source": "hernia",
+    "Target": "pain"
+  },
+  {
+    "Source": "hernia",
+    "Target": "hyperventilation"
+  },
+  {
+    "Source": "hernia",
+    "Target": "excruciating pain"
+  },
+  {
+    "Source": "hernia",
+    "Target": "gag"
+  },
+  {
+    "Source": "hernia",
+    "Target": "nausea"
+  },
+  {
+    "Source": "hernia",
+    "Target": "posturing"
+  },
+  {
+    "Source": "hernia",
+    "Target": "hemiplegia"
+  },
+  {
+    "Source": "hernia",
+    "Target": "sore to touch"
+  },
+  {
+    "Source": "hernia",
+    "Target": "haemorrhage"
+  },
+  {
+    "Source": "hernia",
+    "Target": "apyrexial"
+  },
+  {
+    "Source": "hernia",
+    "Target": "food intolerance"
+  },
+  {
+    "Source": "hernia",
+    "Target": "pulse absent"
+  },
+  {
+    "Source": "hernia",
+    "Target": "asthenia"
+  },
+  {
+    "Source": "hernia",
+    "Target": "mass of body structure"
+  },
+  {
+    "Source": "hernia",
+    "Target": "thicken"
+  },
+  {
+    "Source": "endocarditis",
+    "Target": "pleuritic pain"
+  },
+  {
+    "Source": "endocarditis",
+    "Target": "thicken"
+  },
+  {
+    "Source": "endocarditis",
+    "Target": "myalgia"
+  },
+  {
+    "Source": "endocarditis",
+    "Target": "apyrexial"
+  },
+  {
+    "Source": "endocarditis",
+    "Target": "night sweat"
+  },
+  {
+    "Source": "endocarditis",
+    "Target": "flare"
+  },
+  {
+    "Source": "endocarditis",
+    "Target": "shortness of breath"
+  },
+  {
+    "Source": "endocarditis",
+    "Target": "orthopnea"
+  },
+  {
+    "Source": "endocarditis",
+    "Target": "abscess bacterial"
+  },
+  {
+    "Source": "endocarditis",
+    "Target": "hypotension"
+  },
+  {
+    "Source": "endocarditis",
+    "Target": "cough"
+  },
+  {
+    "Source": "endocarditis",
+    "Target": "metastatic lesion"
+  },
+  {
+    "Source": "endocarditis",
+    "Target": "breath sounds decreased"
+  },
+  {
+    "Source": "endocarditis",
+    "Target": "decreased body weight"
+  },
+  {
+    "Source": "endocarditis",
+    "Target": "pulsus�paradoxus"
+  },
+  {
+    "Source": "endocarditis",
+    "Target": "hypokinesia"
+  },
+  {
+    "Source": "myocardial infarction",
+    "Target": "pain chest"
+  },
+  {
+    "Source": "myocardial infarction",
+    "Target": "st segment elevation"
+  },
+  {
+    "Source": "myocardial infarction",
+    "Target": "sweat"
+  },
+  {
+    "Source": "myocardial infarction",
+    "Target": "sweating increased"
+  },
+  {
+    "Source": "myocardial infarction",
+    "Target": "shortness of breath"
+  },
+  {
+    "Source": "myocardial infarction",
+    "Target": "st segment depression"
+  },
+  {
+    "Source": "myocardial infarction",
+    "Target": "hypokinesia"
+  },
+  {
+    "Source": "myocardial infarction",
+    "Target": "angina pectoris"
+  },
+  {
+    "Source": "myocardial infarction",
+    "Target": "pressure chest"
+  },
+  {
+    "Source": "myocardial infarction",
+    "Target": "t wave inverted"
+  },
+  {
+    "Source": "myocardial infarction",
+    "Target": "orthopnea"
+  },
+  {
+    "Source": "myocardial infarction",
+    "Target": "rale"
+  },
+  {
+    "Source": "myocardial infarction",
+    "Target": "chest tightness"
+  },
+  {
+    "Source": "myocardial infarction",
+    "Target": "presence of q wave"
+  },
+  {
+    "Source": "myocardial infarction",
+    "Target": "palpitation"
+  },
+  {
+    "Source": "myocardial infarction",
+    "Target": "dyspnea"
+  },
+  {
+    "Source": "myocardial infarction",
+    "Target": "chest discomfort"
+  },
+  {
+    "Source": "myocardial infarction",
+    "Target": "bradycardia"
+  },
+  {
+    "Source": "myocardial infarction",
+    "Target": "syncope"
+  },
+  {
+    "Source": "neoplasm",
+    "Target": "mass of body structure"
+  },
+  {
+    "Source": "neoplasm",
+    "Target": "lesion"
+  },
+  {
+    "Source": "neoplasm",
+    "Target": "pain chest"
+  },
+  {
+    "Source": "neoplasm",
+    "Target": "hematuria"
+  },
+  {
+    "Source": "neoplasm",
+    "Target": "tumor cell invasion"
+  },
+  {
+    "Source": "neoplasm",
+    "Target": "pain"
+  },
+  {
+    "Source": "neoplasm",
+    "Target": "anosmia"
+  },
+  {
+    "Source": "neoplasm",
+    "Target": "thicken"
+  },
+  {
+    "Source": "neoplasm",
+    "Target": "metastatic lesion"
+  },
+  {
+    "Source": "neoplasm",
+    "Target": "food intolerance"
+  },
+  {
+    "Source": "neoplasm",
+    "Target": "decreased body weight"
+  },
+  {
+    "Source": "neoplasm",
+    "Target": "night sweat"
+  },
+  {
+    "Source": "neoplasm",
+    "Target": "hemianopsia homonymous"
+  },
+  {
+    "Source": "neoplasm",
+    "Target": "satiety early"
+  },
+  {
+    "Source": "neoplasm",
+    "Target": "pain abdominal"
+  },
+  {
+    "Source": "neoplasm",
+    "Target": "headache"
+  },
+  {
+    "Source": "fibroid tumor",
+    "Target": "para"
+  },
+  {
+    "Source": "fibroid tumor",
+    "Target": "haemorrhage"
+  },
+  {
+    "Source": "fibroid tumor",
+    "Target": "abortion"
+  },
+  {
+    "Source": "fibroid tumor",
+    "Target": "intermenstrual heavy bleeding"
+  },
+  {
+    "Source": "fibroid tumor",
+    "Target": "muscle hypotonia"
+  },
+  {
+    "Source": "fibroid tumor",
+    "Target": "hypotonic"
+  },
+  {
+    "Source": "fibroid tumor",
+    "Target": "previous pregnancies"
+  },
+  {
+    "Source": "fibroid tumor",
+    "Target": "shortness of breath"
+  },
+  {
+    "Source": "fibroid tumor",
+    "Target": "fever"
+  },
+  {
+    "Source": "fibroid tumor",
+    "Target": "heartburn"
+  },
+  {
+    "Source": "fibroid tumor",
+    "Target": "primigravida"
+  },
+  {
+    "Source": "fibroid tumor",
+    "Target": "abnormally hard consistency"
+  },
+  {
+    "Source": "fibroid tumor",
+    "Target": "proteinemia"
+  },
+  {
+    "Source": "gastroenteritis",
+    "Target": "pain abdominal"
+  },
+  {
+    "Source": "gastroenteritis",
+    "Target": "breath-holding spell"
+  },
+  {
+    "Source": "gastroenteritis",
+    "Target": "nausea"
+  },
+  {
+    "Source": "gastroenteritis",
+    "Target": "decreased body weight"
+  },
+  {
+    "Source": "gastroenteritis",
+    "Target": "sore to touch"
+  },
+  {
+    "Source": "gastroenteritis",
+    "Target": "scleral�icterus"
+  },
+  {
+    "Source": "gastroenteritis",
+    "Target": "fever"
+  },
+  {
+    "Source": "gastroenteritis",
+    "Target": "myalgia"
+  },
+  {
+    "Source": "gastroenteritis",
+    "Target": "hyponatremia"
+  },
+  {
+    "Source": "gastroenteritis",
+    "Target": "retch"
+  },
+  {
+    "Source": "gastroenteritis",
+    "Target": "mass of body structure"
+  },
+  {
+    "Source": "gastroenteritis",
+    "Target": "decreased body weight"
+  },
+  {
+    "Source": "spasm bronchial",
+    "Target": "shortness of breath"
+  },
+  {
+    "Source": "spasm bronchial",
+    "Target": "scar tissue"
+  },
+  {
+    "Source": "spasm bronchial",
+    "Target": "apyrexial"
+  },
+  {
+    "Source": "spasm bronchial",
+    "Target": "no known drug allergies"
+  },
+  {
+    "Source": "spasm bronchial",
+    "Target": "pain"
+  },
+  {
+    "Source": "spasm bronchial",
+    "Target": "productive cough"
+  },
+  {
+    "Source": "spasm bronchial",
+    "Target": "throat sore"
+  },
+  {
+    "Source": "spasm bronchial",
+    "Target": "dyspnea"
+  },
+  {
+    "Source": "spasm bronchial",
+    "Target": "chest tightness"
+  },
+  {
+    "Source": "spasm bronchial",
+    "Target": "hypoxemia"
+  },
+  {
+    "Source": "spasm bronchial",
+    "Target": "tachypnea"
+  },
+  {
+    "Source": "spasm bronchial",
+    "Target": "sensory discomfort"
+  },
+  {
+    "Source": "spasm bronchial",
+    "Target": "fever"
+  },
+  {
+    "Source": "spasm bronchial",
+    "Target": "vomiting"
+  },
+  {
+    "Source": "spasm bronchial",
+    "Target": "rhonchus"
+  },
+  {
+    "Source": "spasm bronchial",
+    "Target": "hemiplegia"
+  },
+  {
+    "Source": "spasm bronchial",
+    "Target": "fremitus"
+  },
+  {
+    "Source": "effusion pericardial",
+    "Target": "pericardial friction rub"
+  },
+  {
+    "Source": "effusion pericardial",
+    "Target": "dyspnea"
+  },
+  {
+    "Source": "effusion pericardial",
+    "Target": "shortness of breath"
+  },
+  {
+    "Source": "effusion pericardial",
+    "Target": "hemodynamically stable"
+  },
+  {
+    "Source": "effusion pericardial",
+    "Target": "cardiomegaly"
+  },
+  {
+    "Source": "effusion pericardial",
+    "Target": "hypotension"
+  },
+  {
+    "Source": "effusion pericardial",
+    "Target": "sputum purulent"
+  },
+  {
+    "Source": "effusion pericardial",
+    "Target": "facial paresis"
+  },
+  {
+    "Source": "effusion pericardial",
+    "Target": "pain"
+  },
+  {
+    "Source": "effusion pericardial",
+    "Target": "oliguria"
+  },
+  {
+    "Source": "effusion pericardial",
+    "Target": "blackout"
+  },
+  {
+    "Source": "effusion pericardial",
+    "Target": "intoxication"
+  },
+  {
+    "Source": "carcinoma breast",
+    "Target": "mass in breast"
+  },
+  {
+    "Source": "carcinoma breast",
+    "Target": "mass of body structure"
+  },
+  {
+    "Source": "carcinoma breast",
+    "Target": "paresthesia"
+  },
+  {
+    "Source": "carcinoma breast",
+    "Target": "retropulsion"
+  },
+  {
+    "Source": "carcinoma breast",
+    "Target": "erythema"
+  },
+  {
+    "Source": "carcinoma breast",
+    "Target": "difficulty"
+  },
+  {
+    "Source": "carcinoma breast",
+    "Target": "lesion"
+  },
+  {
+    "Source": "carcinoma breast",
+    "Target": "estrogen use"
+  },
+  {
+    "Source": "carcinoma breast",
+    "Target": "burning sensation"
+  },
+  {
+    "Source": "carcinoma breast",
+    "Target": "dyspnea"
+  },
+  {
+    "Source": "carcinoma breast",
+    "Target": "swelling"
+  },
+  {
+    "Source": "carcinoma breast",
+    "Target": "formication"
+  },
+  {
+    "Source": "hepatitis B",
+    "Target": "inappropriate affect"
+  },
+  {
+    "Source": "hepatitis B",
+    "Target": "tachypnea"
+  },
+  {
+    "Source": "hepatitis B",
+    "Target": "yellow sputum"
+  },
+  {
+    "Source": "hepatitis B",
+    "Target": "projectile vomiting"
+  },
+  {
+    "Source": "hepatitis B",
+    "Target": "poor feeding"
+  },
+  {
+    "Source": "hepatitis B",
+    "Target": "pain abdominal"
+  },
+  {
+    "Source": "hepatitis B",
+    "Target": "abdominal tenderness"
+  },
+  {
+    "Source": "hepatitis B",
+    "Target": "wheelchair bound"
+  },
+  {
+    "Source": "hepatitis B",
+    "Target": "moan"
+  },
+  {
+    "Source": "suicide attempt",
+    "Target": "hallucinations auditory"
+  },
+  {
+    "Source": "suicide attempt",
+    "Target": "sleeplessness"
+  },
+  {
+    "Source": "suicide attempt",
+    "Target": "suicidal"
+  },
+  {
+    "Source": "suicide attempt",
+    "Target": "motor retardation"
+  },
+  {
+    "Source": "suicide attempt",
+    "Target": "weepiness"
+  },
+  {
+    "Source": "suicide attempt",
+    "Target": "unable to concentrate"
+  },
+  {
+    "Source": "suicide attempt",
+    "Target": "todd paralysis"
+  },
+  {
+    "Source": "suicide attempt",
+    "Target": "worry"
+  },
+  {
+    "Source": "suicide attempt",
+    "Target": "fatigue"
+  },
+  {
+    "Source": "suicide attempt",
+    "Target": "tremor"
+  },
+  {
+    "Source": "suicide attempt",
+    "Target": "alcoholic withdrawal symptoms"
+  },
+  {
+    "Source": "suicide attempt",
+    "Target": "agitation"
+  },
+  {
+    "Source": "suicide attempt",
+    "Target": "unresponsiveness"
+  },
+  {
+    "Source": "suicide attempt",
+    "Target": "blackout"
+  },
+  {
+    "Source": "suicide attempt",
+    "Target": "withdraw"
+  },
+  {
+    "Source": "suicide attempt",
+    "Target": "difficulty"
+  },
+  {
+    "Source": "suicide attempt",
+    "Target": "irritable mood"
+  },
+  {
+    "Source": "suicide attempt",
+    "Target": "sensory discomfort"
+  },
+  {
+    "Source": "suicide attempt",
+    "Target": "drowsiness"
+  },
+  {
+    "Source": "suicide attempt",
+    "Target": "formication"
+  },
+  {
+    "Source": "suicide attempt",
+    "Target": "unconscious state"
+  },
+  {
+    "Source": "suicide attempt",
+    "Target": "fever"
+  },
+  {
+    "Source": "suicide attempt",
+    "Target": "cough"
+  },
+  {
+    "Source": "diverticulitis",
+    "Target": "pain abdominal"
+  },
+  {
+    "Source": "diverticulitis",
+    "Target": "abscess bacterial"
+  },
+  {
+    "Source": "diverticulitis",
+    "Target": "dullness"
+  },
+  {
+    "Source": "diverticulitis",
+    "Target": "red blotches"
+  },
+  {
+    "Source": "diverticulitis",
+    "Target": "diarrhea"
+  },
+  {
+    "Source": "diverticulitis",
+    "Target": "sore to touch"
+  },
+  {
+    "Source": "diverticulitis",
+    "Target": "dysuria"
+  },
+  {
+    "Source": "diverticulitis",
+    "Target": "pain"
+  },
+  {
+    "Source": "diverticulitis",
+    "Target": "vomiting"
+  },
+  {
+    "Source": "diverticulitis",
+    "Target": "sinus rhythm"
+  },
+  {
+    "Source": "diverticulitis",
+    "Target": "colic abdominal"
+  },
+  {
+    "Source": "diverticulitis",
+    "Target": "apyrexial"
+  },
+  {
+    "Source": "diverticulitis",
+    "Target": "abdominal tenderness"
+  },
+  {
+    "Source": "diverticulitis",
+    "Target": "fever"
+  },
+  {
+    "Source": "diverticulitis",
+    "Target": "unsteady gait"
+  },
+  {
+    "Source": "diverticulitis",
+    "Target": "thicken"
+  },
+  {
+    "Source": "diverticulitis",
+    "Target": "urgency of�micturition"
+  },
+  {
+    "Source": "diverticulitis",
+    "Target": "anorexia"
+  },
+  {
+    "Source": "diverticulitis",
+    "Target": "monoclonal"
+  },
+  {
+    "Source": "diverticulitis",
+    "Target": "constipation"
+  },
+  {
+    "Source": "anxiety state",
+    "Target": "worry"
+  },
+  {
+    "Source": "anxiety state",
+    "Target": "feeling suicidal"
+  },
+  {
+    "Source": "anxiety state",
+    "Target": "suicidal"
+  },
+  {
+    "Source": "anxiety state",
+    "Target": "sleeplessness"
+  },
+  {
+    "Source": "anxiety state",
+    "Target": "feeling hopeless"
+  },
+  {
+    "Source": "anxiety state",
+    "Target": "irritable mood"
+  },
+  {
+    "Source": "anxiety state",
+    "Target": "tremor"
+  },
+  {
+    "Source": "anxiety state",
+    "Target": "blackout"
+  },
+  {
+    "Source": "anxiety state",
+    "Target": "weepiness"
+  },
+  {
+    "Source": "anxiety state",
+    "Target": "has religious belief"
+  },
+  {
+    "Source": "anxiety state",
+    "Target": "nervousness"
+  },
+  {
+    "Source": "anxiety state",
+    "Target": "hallucinations visual"
+  },
+  {
+    "Source": "anxiety state",
+    "Target": "formication"
+  },
+  {
+    "Source": "anxiety state",
+    "Target": "difficulty"
+  },
+  {
+    "Source": "anxiety state",
+    "Target": "pain chest"
+  },
+  {
+    "Source": "anxiety state",
+    "Target": "patient non compliance"
+  },
+  {
+    "Source": "anxiety state",
+    "Target": "agitation"
+  },
+  {
+    "Source": "anxiety state",
+    "Target": "palpitation"
+  },
+  {
+    "Source": "anxiety state",
+    "Target": "hallucinations auditory"
+  },
+  {
+    "Source": "anxiety state",
+    "Target": "mood depressed"
+  },
+  {
+    "Source": "anxiety state",
+    "Target": "hot flush"
+  },
+  {
+    "Source": "anxiety state",
+    "Target": "pain"
+  },
+  {
+    "Source": "anxiety state",
+    "Target": "consciousness clear"
+  },
+  {
+    "Source": "anxiety state",
+    "Target": "nightmare"
+  },
+  {
+    "Source": "emphysema pulmonary",
+    "Target": "behavior showing increased motor activity"
+  },
+  {
+    "Source": "emphysema pulmonary",
+    "Target": "scar tissue"
+  },
+  {
+    "Source": "emphysema pulmonary",
+    "Target": "dyspnea on exertion"
+  },
+  {
+    "Source": "emphysema pulmonary",
+    "Target": "coordination abnormal"
+  },
+  {
+    "Source": "emphysema pulmonary",
+    "Target": "myalgia"
+  },
+  {
+    "Source": "emphysema pulmonary",
+    "Target": "hypercapnia"
+  },
+  {
+    "Source": "emphysema pulmonary",
+    "Target": "clammy skin"
+  },
+  {
+    "Source": "emphysema pulmonary",
+    "Target": "has religious belief"
+  },
+  {
+    "Source": "emphysema pulmonary",
+    "Target": "room spinning"
+  },
+  {
+    "Source": "emphysema pulmonary",
+    "Target": "moan"
+  },
+  {
+    "Source": "emphysema pulmonary",
+    "Target": "night sweat"
+  },
+  {
+    "Source": "emphysema pulmonary",
+    "Target": "cachexia"
+  },
+  {
+    "Source": "emphysema pulmonary",
+    "Target": "symptom aggravating factors"
+  },
+  {
+    "Source": "emphysema pulmonary",
+    "Target": "dyspnea"
+  },
+  {
+    "Source": "emphysema pulmonary",
+    "Target": "rale"
+  },
+  {
+    "Source": "emphysema pulmonary",
+    "Target": "flushing"
+  },
+  {
+    "Source": "emphysema pulmonary",
+    "Target": "painful swallowing"
+  },
+  {
+    "Source": "emphysema pulmonary",
+    "Target": "arthralgia"
+  },
+  {
+    "Source": "emphysema pulmonary",
+    "Target": "choke"
+  },
+  {
+    "Source": "emphysema pulmonary",
+    "Target": "tenesmus"
+  },
+  {
+    "Source": "emphysema pulmonary",
+    "Target": "constipation"
+  },
+  {
+    "Source": "pneumonia",
+    "Target": "cough"
+  },
+  {
+    "Source": "pneumonia",
+    "Target": "fever"
+  },
+  {
+    "Source": "pneumonia",
+    "Target": "decreased translucency"
+  },
+  {
+    "Source": "pneumonia",
+    "Target": "shortness of breath"
+  },
+  {
+    "Source": "pneumonia",
+    "Target": "rale"
+  },
+  {
+    "Source": "pneumonia",
+    "Target": "productive cough"
+  },
+  {
+    "Source": "pneumonia",
+    "Target": "pleuritic pain"
+  },
+  {
+    "Source": "pneumonia",
+    "Target": "yellow sputum"
+  },
+  {
+    "Source": "pneumonia",
+    "Target": "breath sounds decreased"
+  },
+  {
+    "Source": "pneumonia",
+    "Target": "chill"
+  },
+  {
+    "Source": "pneumonia",
+    "Target": "rhonchus"
+  },
+  {
+    "Source": "pneumonia",
+    "Target": "green sputum"
+  },
+  {
+    "Source": "pneumonia",
+    "Target": "non-productive cough"
+  },
+  {
+    "Source": "pneumonia",
+    "Target": "wheezing"
+  },
+  {
+    "Source": "pneumonia",
+    "Target": "haemoptysis"
+  },
+  {
+    "Source": "pneumonia",
+    "Target": "distress respiratory"
+  },
+  {
+    "Source": "pneumonia",
+    "Target": "tachypnea"
+  },
+  {
+    "Source": "pneumonia",
+    "Target": "malaise"
+  },
+  {
+    "Source": "pneumonia",
+    "Target": "night sweat"
+  },
+  {
+    "Source": "tachycardia sinus",
+    "Target": "left�atrial�hypertrophy"
+  },
+  {
+    "Source": "tachycardia sinus",
+    "Target": "sweat"
+  },
+  {
+    "Source": "tachycardia sinus",
+    "Target": "sweating increased"
+  },
+  {
+    "Source": "tachycardia sinus",
+    "Target": "alcohol binge episode"
+  },
+  {
+    "Source": "tachycardia sinus",
+    "Target": "pressure chest"
+  },
+  {
+    "Source": "tachycardia sinus",
+    "Target": "scar tissue"
+  },
+  {
+    "Source": "tachycardia sinus",
+    "Target": "cardiovascular finding"
+  },
+  {
+    "Source": "tachycardia sinus",
+    "Target": "cardiovascular event"
+  },
+  {
+    "Source": "tachycardia sinus",
+    "Target": "orthostasis"
+  },
+  {
+    "Source": "tachycardia sinus",
+    "Target": "shortness of breath"
+  },
+  {
+    "Source": "tachycardia sinus",
+    "Target": "t wave inverted"
+  },
+  {
+    "Source": "tachycardia sinus",
+    "Target": "vomiting"
+  },
+  {
+    "Source": "tachycardia sinus",
+    "Target": "pain abdominal"
+  },
+  {
+    "Source": "depressive disorder",
+    "Target": "feeling suicidal"
+  },
+  {
+    "Source": "depressive disorder",
+    "Target": "suicidal"
+  },
+  {
+    "Source": "depressive disorder",
+    "Target": "hallucinations auditory"
+  },
+  {
+    "Source": "depressive disorder",
+    "Target": "feeling hopeless"
+  },
+  {
+    "Source": "depressive disorder",
+    "Target": "weepiness"
+  },
+  {
+    "Source": "depressive disorder",
+    "Target": "sleeplessness"
+  },
+  {
+    "Source": "depressive disorder",
+    "Target": "motor retardation"
+  },
+  {
+    "Source": "depressive disorder",
+    "Target": "irritable mood"
+  },
+  {
+    "Source": "depressive disorder",
+    "Target": "blackout"
+  },
+  {
+    "Source": "depressive disorder",
+    "Target": "mood depressed"
+  },
+  {
+    "Source": "depressive disorder",
+    "Target": "hallucinations visual"
+  },
+  {
+    "Source": "depressive disorder",
+    "Target": "worry"
+  },
+  {
+    "Source": "depressive disorder",
+    "Target": "agitation"
+  },
+  {
+    "Source": "depressive disorder",
+    "Target": "tremor"
+  },
+  {
+    "Source": "depressive disorder",
+    "Target": "intoxication"
+  },
+  {
+    "Source": "depressive disorder",
+    "Target": "verbal auditory hallucinations"
+  },
+  {
+    "Source": "depressive disorder",
+    "Target": "energy increased"
+  },
+  {
+    "Source": "depressive disorder",
+    "Target": "difficulty"
+  },
+  {
+    "Source": "depressive disorder",
+    "Target": "nightmare"
+  },
+  {
+    "Source": "depressive disorder",
+    "Target": "unable to concentrate"
+  },
+  {
+    "Source": "depressive disorder",
+    "Target": "homelessness"
+  },
+  {
+    "Source": "manic disorder",
+    "Target": "energy increased"
+  },
+  {
+    "Source": "manic disorder",
+    "Target": "suicidal"
+  },
+  {
+    "Source": "manic disorder",
+    "Target": "hypersomnia"
+  },
+  {
+    "Source": "manic disorder",
+    "Target": "feeling suicidal"
+  },
+  {
+    "Source": "manic disorder",
+    "Target": "blanch"
+  },
+  {
+    "Source": "manic disorder",
+    "Target": "hallucinations auditory"
+  },
+  {
+    "Source": "manic disorder",
+    "Target": "hallucinations visual"
+  },
+  {
+    "Source": "manic disorder",
+    "Target": "elation"
+  },
+  {
+    "Source": "manic disorder",
+    "Target": "verbal auditory hallucinations"
+  },
+  {
+    "Source": "manic disorder",
+    "Target": "feeling hopeless"
+  },
+  {
+    "Source": "manic disorder",
+    "Target": "difficulty"
+  },
+  {
+    "Source": "manic disorder",
+    "Target": "decompensation"
+  },
+  {
+    "Source": "manic disorder",
+    "Target": "verbally abusive behavior"
+  },
+  {
+    "Source": "manic disorder",
+    "Target": "suicidal"
+  },
+  {
+    "Source": "manic disorder",
+    "Target": "feeling suicidal"
+  },
+  {
+    "Source": "obesity",
+    "Target": "pain"
+  },
+  {
+    "Source": "obesity",
+    "Target": "catatonia"
+  },
+  {
+    "Source": "obesity",
+    "Target": "snore"
+  },
+  {
+    "Source": "obesity",
+    "Target": "pain chest"
+  },
+  {
+    "Source": "obesity",
+    "Target": "r wave feature"
+  },
+  {
+    "Source": "obesity",
+    "Target": "has religious belief"
+  },
+  {
+    "Source": "obesity",
+    "Target": "shortness of breath"
+  },
+  {
+    "Source": "obesity",
+    "Target": "fatigue"
+  },
+  {
+    "Source": "obesity",
+    "Target": "tired"
+  },
+  {
+    "Source": "obesity",
+    "Target": "overweight"
+  },
+  {
+    "Source": "obesity",
+    "Target": "systolic murmur"
+  },
+  {
+    "Source": "obesity",
+    "Target": "mood depressed"
+  },
+  {
+    "Source": "obesity",
+    "Target": "ecchymosis"
+  },
+  {
+    "Source": "malignant neoplasm of lung",
+    "Target": "lesion"
+  },
+  {
+    "Source": "malignant neoplasm of lung",
+    "Target": "cough"
+  },
+  {
+    "Source": "malignant neoplasm of lung",
+    "Target": "lung nodule"
+  },
+  {
+    "Source": "malignant neoplasm of lung",
+    "Target": "shortness of breath"
+  },
+  {
+    "Source": "malignant neoplasm of lung",
+    "Target": "haemoptysis"
+  },
+  {
+    "Source": "malignant neoplasm of lung",
+    "Target": "debilitation"
+  },
+  {
+    "Source": "malignant neoplasm of lung",
+    "Target": "gurgle"
+  },
+  {
+    "Source": "malignant neoplasm of lung",
+    "Target": "ache"
+  },
+  {
+    "Source": "malignant neoplasm of lung",
+    "Target": "rale"
+  },
+  {
+    "Source": "malignant neoplasm of lung",
+    "Target": "night sweat"
+  },
+  {
+    "Source": "malignant neoplasm of lung",
+    "Target": "decreased translucency"
+  },
+  {
+    "Source": "malignant neoplasm of lung",
+    "Target": "asthenia"
+  },
+  {
+    "Source": "malignant neoplasm of lung",
+    "Target": "metastatic lesion"
+  },
+  {
+    "Source": "malignant neoplasm of lung",
+    "Target": "agitation"
+  },
+  {
+    "Source": "malignant neoplasm of lung",
+    "Target": "irritable mood"
+  },
+  {
+    "Source": "septicemia",
+    "Target": "fever"
+  },
+  {
+    "Source": "septicemia",
+    "Target": "distress respiratory"
+  },
+  {
+    "Source": "septicemia",
+    "Target": "hypotension"
+  },
+  {
+    "Source": "septicemia",
+    "Target": "tachypnea"
+  },
+  {
+    "Source": "septicemia",
+    "Target": "chill"
+  },
+  {
+    "Source": "septicemia",
+    "Target": "lethargy"
+  },
+  {
+    "Source": "septicemia",
+    "Target": "bradycardia"
+  },
+  {
+    "Source": "septicemia",
+    "Target": "breech presentation"
+  },
+  {
+    "Source": "septicemia",
+    "Target": "cyanosis"
+  },
+  {
+    "Source": "septicemia",
+    "Target": "spontaneous rupture of membranes"
+  },
+  {
+    "Source": "septicemia",
+    "Target": "haemorrhage"
+  },
+  {
+    "Source": "septicemia",
+    "Target": "unresponsiveness"
+  },
+  {
+    "Source": "septicemia",
+    "Target": "rale"
+  },
+  {
+    "Source": "septicemia",
+    "Target": "apyrexial"
+  }
+]

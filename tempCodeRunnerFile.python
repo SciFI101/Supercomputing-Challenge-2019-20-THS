@@ -1,9 +1,0 @@
-def printer_error(s):
-    errorCount
-    for i in range(len(s)):
-        if s[1] not in "abcdefghijklm":
-            errorCount += 1
-            print(errorCount)
-    errorRate = "%s/%s" % (errorCount, len(s))
-    return errorRate
-print(printer_error("aaaaabbbbbcccccnnnnnxxxxx"))

@@ -1,6 +1,6 @@
 
 #Python 3.6.5
-import mysql.connector
+import mysql
 from mysql.connector import errorcode
 
 
@@ -23,4 +23,7 @@ class databaseConnect:
         print(err)
     else:
       print('We\'re in bois')
-      print(self.cur)
+      return(self.cur)
+
+db = databaseConnect.open_connection("root", "artemisfowl", "localhost" )
+db.execute("show databases;")

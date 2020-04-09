@@ -13,9 +13,14 @@ class Menu_1(GridLayout):
 class Menu_1App(App):
     def build(self):
         return Menu_1()
-    def process(self):
-        text = self.root.ids.input.text
-        print(text)
+    def process_usrn(self):
+        text_usrn = self.root.ids.input.text
+        usrn = text_usrn
+        print(usrn)
+    def process_pswd(self):
+        text_pswd = self.root.ids.input.text
+        pswd = text_pswd
+        print (pswd)
 
 if __name__=='__main__':
     Menu_1App().run()

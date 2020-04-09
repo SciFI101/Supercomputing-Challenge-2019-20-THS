@@ -1,0 +1,47 @@
+#: kivy 1.11.1
+<Menu_1>
+    rows: 5
+    Label:
+        text: "Please login for a medical evaluation."
+        font_size: 15
+        font_color: 'white'
+        AnchorLayout:
+            anchor_x: 'center'
+            anchor_y: 'top'
+    Widget:
+        title: "Username"
+        auto_dismiss: False
+        id: test1
+        AnchorLayout:
+            anchor_x: 'center'
+            anchor_y: 'bottom'
+            size: root.size
+            id: test2
+            TextInput:
+                id: input
+                hint_text: 'Username'
+                size: 275, 100
+                size_hint: None, None
+                on_text: app.process()
+    Widget:
+        title: "Password"
+        auto_dismiss: False
+        id: test1
+        AnchorLayout:
+            anchor_x: 'right'
+            anchor_y: 'bottom'
+            size: root.size
+            id: test2
+            TextInput:
+                id: input
+                hint_text: 'Password'
+                size: 275, 100
+                size_hint: None, None
+                on_text: app.process()
+    Button:
+        text: "Connect"
+        size: 265, 100
+        size_hint: None, None
+        AnchorLayout:
+            anchor_x: 'right'
+            anchor_y: 'bottom'

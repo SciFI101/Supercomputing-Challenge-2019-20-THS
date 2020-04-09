@@ -1,27 +1,27 @@
 #from databaseInterface import databaseConnect
-from tkinter import *
-import mysql
-from mysql.connector import errorcode
+#import mysql
+import kivy
+from kivy.app import App
+from kivy.uix.widget import Widget
+from kivy.uix.textinput import TextInput
+from kivy.uix.relativelayout import RelativeLayout
+from kivy.lang import Builder
+from kivy.uix.gridlayout import GridLayout
+from kivy.config import Config
+Config.set('graphics', 'resizable', True)
+#from mysql.connector import errorcode
 
-window = Tk()
+class Menu_1(GridLayout):
+    pass
+class Menu_1App(App):
+    def build(self):
+        return Menu_1()
+    def process(self):
+        text = self.root.ids.input.text
+        print(text)
 
-window.title("Doctor's Assistant Client")
-
-window.geometry('350x200')
-usrnlbl = Label(window, text="Hello")
-usrnlbl.grid(column=0, row=1)
-usrn = Entry(window,width=25)
-usrn.grid(column=0, row=0)
-
-pswdlbl = Label(window, text="Hello")
-pswdlbl.grid(column=0, row=2)
-pswd = Entry(window,width=25)
-pswd.grid(column=0, row=3)
-
-hostlbl = Label(window, text="Hello")
-hostlbl.grid(column=0, row=5)
-host = Entry(window,width=25)
-host.grid(column=0, row=6)
+if __name__=='__main__':
+    Menu_1App().run()
 
 def on_click_connect():
     cursor = "hi"# databaseConnect.open_connection(usrn.get(), pswd.get(), host.get())

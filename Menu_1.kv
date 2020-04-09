@@ -22,7 +22,7 @@
                 hint_text: 'Username'
                 size: 275, 100
                 size_hint: None, None
-                on_text: app.process()
+                on_text: app.processUsrn()
     Widget:
         title: "Password"
         auto_dismiss: False
@@ -38,11 +38,12 @@
                 hint_text: 'Password'
                 size: 275, 100
                 size_hint: None, None
-                on_text: app.process()
+                on_text: app.processPswd()
     Button:
         text: "Connect"
         size: 265, 100
         size_hint: None, None
+        on_press: databaseConnect.open_connection(usrn, pswd)
         AnchorLayout:
             anchor_x: 'right'
             anchor_y: 'bottom'

@@ -50,8 +50,10 @@ class databaseConnect:
       print('We\'re in bois')
       return(self.cur)
 acc = ObjectProperty(databaseConnect)
-db = databaseConnect.open_connection("root", "artemisfowl", "localhost" )
-print(db.execute("show databases;"))
+
+#test code for connecting:
+#db = databaseConnect.open_connection("root", "artemisfowl", "localhost" )
+#print(db.execute("show databases;"))
 
 if __name__=='__main__':
     Menu_1App().run()

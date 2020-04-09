@@ -1,0 +1,12 @@
+#:kivy 1.11.1
+#:import kivy kivy
+<RootLayout>:
+    Label:
+        text: "Welcome to the Doctor's Assistant Program!"
+        color: 1, 1, 1, 1
+        canvas.before:
+            Color:
+                rgba: 0, 0, 1, 0
+            Rectangle:
+                pos: self.pis
+                size: self.size

@@ -1,3 +1,0 @@
-def dafunction():
-    foobar = 'this is our var'
-print(dafunction(foobar))

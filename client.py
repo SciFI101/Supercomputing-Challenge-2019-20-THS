@@ -1,5 +1,5 @@
 #from databaseInterface import databaseConnect
-#import mysql
+import mysql
 import kivy
 from kivy.app import App
 from kivy.uix.widget import Widget
@@ -35,6 +35,7 @@ class databaseConnect:
     self.cur = ''
     self.cnx = ''
   def open_connection(self, usrn, pswd, hostip):
+    print(usrn,pswd,hostip)
     try:
       self.cnx = mysql.connector.connect(user=usr, 
                                     password=pwd,

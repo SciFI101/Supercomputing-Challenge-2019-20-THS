@@ -1,6 +1,7 @@
 #from databaseInterface import databaseConnect
-import mysql
 import kivy
+import mysql
+import mysql.connector
 from kivy.app import App
 from kivy.uix.widget import Widget
 from kivy.uix.textinput import TextInput
@@ -13,31 +14,24 @@ Config.set('graphics', 'resizable', True)
 #from mysql.connector import errorcode
 
 class Menu_1(GridLayout):
-    pass
+    def aLittleTeat(self):
+      return on_click_connect(usrn, pswd)
+
 class Menu_1App(App):
     def build(self):
         return Menu_1()
     def processUsrn(self):
         text_usrn = self.root.ids.input.text
         usrn = text_usrn
-        print(usrn)
+        return usrn
     def processPswd(self):
         text_pswd = self.root.ids.input.text
         pswd = text_pswd
-        print (pswd)
+        return pswd
 
 def on_click_connect():
-    cursor = "hi"# databaseConnect.open_connection(usrn.get(), pswd.get(), host.get())
-    return cursor
-
-class databaseConnect:
-  def __init__(self):
-    self.cur = ''
-    self.cnx = ''
-  def open_connection(self, usrn, pswd, hostip):
-    print(usrn,pswd,hostip)
     try:
-      self.cnx = mysql.connector.connect(user=usr, 
+      cnx = mysql.connector.connect(user=usr, 
                                     password=pwd,
                                     host=hostip)
     except mysql.connector.Error as err:
@@ -49,12 +43,7 @@ class databaseConnect:
         print(err)
     else:
       print('We\'re in bois')
-      return(self.cur)
-acc = ObjectProperty(databaseConnect)
-
-#test code for connecting:
-#db = databaseConnect.open_connection("root", "artemisfowl", "localhost" )
-#print(db.execute("show databases;"))
+      return(cnx)
 
 if __name__=='__main__':
     Menu_1App().run()
